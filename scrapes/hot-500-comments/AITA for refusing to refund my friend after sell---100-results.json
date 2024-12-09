@@ -1,0 +1,296 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9yea9/aita_for_refusing_to_refund_my_friend_after/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Successful-Ant-3027",
+      "created_utc": "2024-12-09 09:31:22",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 17,
+      "permalink": "/r/AITAH/comments/1h9yea9/aita_for_refusing_to_refund_my_friend_after/",
+      "score": 2,
+      "selftext": "Just a heads up I used ai to help me write this if it\u2019s seems abit robotic. \n\nA couple of months ago, I sold a high-end hair straightener to a friend for \u20ac100. I originally bought it for \u20ac200 about a year ago, and it had only been used 15 times or less, so it was in great condition. She asked if she could pay in installments, and I agreed, telling her she could take her time. Over the next month, she only paid me \u20ac25 of the agreed amount, but I didn\u2019t pressure her because I trusted her to follow through eventually.\n\nRecently, she messaged me saying her mom had bought her another hair straightener, so now she wanted to return the one she bought from me and get a refund. I was really taken aback because it had been over a month since she bought it, and I felt like the sale was final. I explained to her that this wasn\u2019t a loan; it was a sale, and it didn\u2019t make sense for her to return it after using it.\n\nHer response was defensive and dismissive. She told me the straightener was in the exact same condition as when I sold it to her, implying that my concerns about the condition were unfair or unwarranted. She also brushed off my feelings by saying it shouldn\u2019t matter if she used it since I could still sell it for the same price. I tried to clarify that my comment about the condition wasn\u2019t meant to accuse her specifically of damaging it\u2014just that once something leaves my care, I can\u2019t know for sure how it\u2019s been handled, and that\u2019s a general concern I\u2019d have with anyone.\n\nI also pointed out that this issue ultimately stems from her mom buying her another straightener, which is outside of our agreement and not my responsibility to fix. I suggested alternative solutions: her mom could sell the new straightener, or she could sell mine and use the money to pay me back. I even said I\u2019d be willing to take the straightener back and refund her the \u20ac25 she already paid, even though I feel like I shouldn\u2019t have to.\n\nWhat upset me the most was how dismissive she was about my perspective. She didn\u2019t acknowledge the inconvenience this caused me and instead seemed focused on making this my problem to resolve. I was especially surprised at how quickly she mentioned the \u20ac25 I could \u201ckeep\u201d as compensation, given that I had told her there was no rush to pay me the full amount.\n\nAITA?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for refusing to refund my friend after selling her a high-end hair straightener and suggesting she find another solution instead?",
+      "upvote_ratio": 0.63
+    },
+    "comments": [
+      {
+        "author": "u/PathSpecialist560",
+        "body": "Money and friends don\u2019t mix",
+        "body_html": "<div class=\"md\"><p>Money and friends don\u2019t mix</p>\n</div>",
+        "created_utc": "2024-12-09 09:33:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14jwls",
+        "is_submitter": false,
+        "link_id": "t3_1h9yea9",
+        "parent_id": "t3_1h9yea9",
+        "score": 6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/IslaXspark",
+            "body": "I agree. Money can really complicate friendships. It\u2019s always better to keep things separate to avoid misunderstandings or awkwardness OP.",
+            "body_html": "<div class=\"md\"><p>I agree. Money can really complicate friendships. It\u2019s always better to keep things separate to avoid misunderstandings or awkwardness OP.</p>\n</div>",
+            "created_utc": "2024-12-09 10:19:15",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14r71h",
+            "is_submitter": false,
+            "link_id": "t3_1h9yea9",
+            "parent_id": "t1_m14jwls",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Successful-Ant-3027",
+            "body": "I\u2019ve never had any problems with money and other friends, just this one, her mother is also financially abusive thought so it\u2019s hard because I want to tell her what\u2019s acceptable and what\u2019s not but she might think I\u2019m judging or attacking her.",
+            "body_html": "<div class=\"md\"><p>I\u2019ve never had any problems with money and other friends, just this one, her mother is also financially abusive thought so it\u2019s hard because I want to tell her what\u2019s acceptable and what\u2019s not but she might think I\u2019m judging or attacking her.</p>\n</div>",
+            "created_utc": "2024-12-09 09:35:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14k9si",
+            "is_submitter": true,
+            "link_id": "t3_1h9yea9",
+            "parent_id": "t1_m14jwls",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/PathSpecialist560",
+                "body": "I know but if I ever lend, sell or borrow to friends or family I always consider it a gift and if they pay it back bonus. 1. Keeps you and your friends together 2. Makes one only do those things in small amounts and sparingly.",
+                "body_html": "<div class=\"md\"><p>I know but if I ever lend, sell or borrow to friends or family I always consider it a gift and if they pay it back bonus. 1. Keeps you and your friends together 2. Makes one only do those things in small amounts and sparingly.</p>\n</div>",
+                "created_utc": "2024-12-09 09:38:44",
+                "distinguished": null,
+                "edited": false,
+                "id": "m14ks8h",
+                "is_submitter": false,
+                "link_id": "t3_1h9yea9",
+                "parent_id": "t1_m14k9si",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Successful-Ant-3027",
+                    "body": "I totally forgot my therapist gave me this exact advice years ago, thanks for the reminder :)",
+                    "body_html": "<div class=\"md\"><p>I totally forgot my therapist gave me this exact advice years ago, thanks for the reminder :)</p>\n</div>",
+                    "created_utc": "2024-12-09 09:41:01",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m14l585",
+                    "is_submitter": true,
+                    "link_id": "t3_1h9yea9",
+                    "parent_id": "t1_m14ks8h",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/PathSpecialist560",
+                        "body": "I try not to ask for handouts too.",
+                        "body_html": "<div class=\"md\"><p>I try not to ask for handouts too.</p>\n</div>",
+                        "created_utc": "2024-12-09 09:45:01",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m14ls4f",
+                        "is_submitter": false,
+                        "link_id": "t3_1h9yea9",
+                        "parent_id": "t1_m14l585",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Successful-Ant-3027",
+                            "body": "Yeah I\u2019ve never been that type that borrows or asks for money unless it\u2019s my parents and I\u2019m really stuck, it\u2019s nice to know they\u2019re on the back burner if I\u2019m stuck but they would make me pay them back. I hate borrowing anything if I\u2019m honest, I feel uncomfortable when I owe money. But my friend has been a borrower of all kinds for years, money, makeup, pretty much anything she likes of mine she wants to use. It makes me really uncomfortable because she will just ask outright to say use my makeup and me being awkward with confrontation will say sure but I really don\u2019t like sharing.",
+                            "body_html": "<div class=\"md\"><p>Yeah I\u2019ve never been that type that borrows or asks for money unless it\u2019s my parents and I\u2019m really stuck, it\u2019s nice to know they\u2019re on the back burner if I\u2019m stuck but they would make me pay them back. I hate borrowing anything if I\u2019m honest, I feel uncomfortable when I owe money. But my friend has been a borrower of all kinds for years, money, makeup, pretty much anything she likes of mine she wants to use. It makes me really uncomfortable because she will just ask outright to say use my makeup and me being awkward with confrontation will say sure but I really don\u2019t like sharing.</p>\n</div>",
+                            "created_utc": "2024-12-09 09:52:32",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m14mzsf",
+                            "is_submitter": true,
+                            "link_id": "t3_1h9yea9",
+                            "parent_id": "t1_m14ls4f",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/PathSpecialist560",
+                                "body": "Totally on board.",
+                                "body_html": "<div class=\"md\"><p>Totally on board.</p>\n</div>",
+                                "created_utc": "2024-12-09 09:53:20",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m14n4aq",
+                                "is_submitter": false,
+                                "link_id": "t3_1h9yea9",
+                                "parent_id": "t1_m14mzsf",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/WifeofBath1984",
+                    "body": "Sounds like you have untrustworthy friends",
+                    "body_html": "<div class=\"md\"><p>Sounds like you have untrustworthy friends</p>\n</div>",
+                    "created_utc": "2024-12-09 09:42:40",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m14lesa",
+                    "is_submitter": false,
+                    "link_id": "t3_1h9yea9",
+                    "parent_id": "t1_m14ks8h",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/PathSpecialist560",
+                        "body": "I wouldn\u2019t know. Haven\u2019t let them rip me off.",
+                        "body_html": "<div class=\"md\"><p>I wouldn\u2019t know. Haven\u2019t let them rip me off.</p>\n</div>",
+                        "created_utc": "2024-12-09 09:43:38",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m14lk8s",
+                        "is_submitter": false,
+                        "link_id": "t3_1h9yea9",
+                        "parent_id": "t1_m14lesa",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/adelinepike",
+        "body": "NTA. You\u2019re not a shop\u2026",
+        "body_html": "<div class=\"md\"><p>NTA. You\u2019re not a shop\u2026</p>\n</div>",
+        "created_utc": "2024-12-09 09:52:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14mzql",
+        "is_submitter": false,
+        "link_id": "t3_1h9yea9",
+        "parent_id": "t3_1h9yea9",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Successful-Ant-3027",
+            "body": "Thank you :)",
+            "body_html": "<div class=\"md\"><p>Thank you :)</p>\n</div>",
+            "created_utc": "2024-12-09 09:53:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14n5gm",
+            "is_submitter": true,
+            "link_id": "t3_1h9yea9",
+            "parent_id": "t1_m14mzql",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/WifeofBath1984",
+        "body": "I'm confused. You did offer to take the straightener back and return the 25 she had already paid. That's pretty much exactly what she wanted. She wanted to return it and get her money back. You offered to do that. What more does she want?",
+        "body_html": "<div class=\"md\"><p>I&#39;m confused. You did offer to take the straightener back and return the 25 she had already paid. That&#39;s pretty much exactly what she wanted. She wanted to return it and get her money back. You offered to do that. What more does she want?</p>\n</div>",
+        "created_utc": "2024-12-09 09:41:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14lag6",
+        "is_submitter": false,
+        "link_id": "t3_1h9yea9",
+        "parent_id": "t3_1h9yea9",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Successful-Ant-3027",
+            "body": "So I didn\u2019t really lead her to believe that I would let her give me back the straightener and I give her \u20ac25 because I wanted to see would she sort out this situation herself which I think is her responsibility but I just mentioned at the end of my last message that ultimately I don\u2019t want to loose our friendship over something so small so I\u2019m willing to take the straightener back and give her the \u20ac25. However if she does this I won\u2019t ever let myself be in a situation like this with her again so no sort of money situations.",
+            "body_html": "<div class=\"md\"><p>So I didn\u2019t really lead her to believe that I would let her give me back the straightener and I give her \u20ac25 because I wanted to see would she sort out this situation herself which I think is her responsibility but I just mentioned at the end of my last message that ultimately I don\u2019t want to loose our friendship over something so small so I\u2019m willing to take the straightener back and give her the \u20ac25. However if she does this I won\u2019t ever let myself be in a situation like this with her again so no sort of money situations.</p>\n</div>",
+            "created_utc": "2024-12-09 09:48:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14mcdd",
+            "is_submitter": true,
+            "link_id": "t3_1h9yea9",
+            "parent_id": "t1_m14lag6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/vacation_bacon",
+        "body": "So she\u2019s only paid you 25? I would just give it back. Maybe she got defensive because she\u2019s broke. Don\u2019t do any more business with this \u201cfriend.\u201d",
+        "body_html": "<div class=\"md\"><p>So she\u2019s only paid you 25? I would just give it back. Maybe she got defensive because she\u2019s broke. Don\u2019t do any more business with this \u201cfriend.\u201d</p>\n</div>",
+        "created_utc": "2024-12-09 10:23:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14rwel",
+        "is_submitter": false,
+        "link_id": "t3_1h9yea9",
+        "parent_id": "t3_1h9yea9",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Successful-Ant-3027",
+            "body": "She\u2019s not broke but she\u2019s bad with money, I shall not do more business with her.",
+            "body_html": "<div class=\"md\"><p>She\u2019s not broke but she\u2019s bad with money, I shall not do more business with her.</p>\n</div>",
+            "created_utc": "2024-12-09 10:29:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14sv5c",
+            "is_submitter": true,
+            "link_id": "t3_1h9yea9",
+            "parent_id": "t1_m14rwel",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/18k_gold",
+        "body": "Your best bet is to take back your straightener as she won't pay you. In the future never let her borrow or sell her anything.",
+        "body_html": "<div class=\"md\"><p>Your best bet is to take back your straightener as she won&#39;t pay you. In the future never let her borrow or sell her anything.</p>\n</div>",
+        "created_utc": "2024-12-09 10:48:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14vuab",
+        "is_submitter": false,
+        "link_id": "t3_1h9yea9",
+        "parent_id": "t3_1h9yea9",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

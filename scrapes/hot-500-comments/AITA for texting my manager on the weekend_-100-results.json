@@ -1,0 +1,138 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha0v0i/aita_for_texting_my_manager_on_the_weekend/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/RoutineSafety4434",
+      "created_utc": "2024-12-09 11:43:08",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 7,
+      "permalink": "/r/AITAH/comments/1ha0v0i/aita_for_texting_my_manager_on_the_weekend/",
+      "score": 1,
+      "selftext": "So Im currently working an internship where the workload is insane, I was basically left alone most of the day and had A LOT of tasks to get done by the end of my shift. After I clocked out I thought I had gotten all of my tasks done right till the very end of my shift but today (sunday) i realized i forgot to schedule something that was supposed to go out today and i started freaking out about it. I freaked out so much I ended up texting my manager about it and apologizing profusely. I am terrified that I am going to get in trouble for making that mistake and also texting her on a sunday night.  \nShould I have just waited until the work week starts for me ? (which is until tuesday) Or was it okay to text her as soon as I figured this out?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for texting my manager on the weekend?",
+      "upvote_ratio": 0.67
+    },
+    "comments": [
+      {
+        "author": "u/aeroeagleAC",
+        "body": "Couldn't you send an email? What is the point of texting someone when they cannot do anything about it?",
+        "body_html": "<div class=\"md\"><p>Couldn&#39;t you send an email? What is the point of texting someone when they cannot do anything about it?</p>\n</div>",
+        "created_utc": "2024-12-09 11:45:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "m154lms",
+        "is_submitter": false,
+        "link_id": "t3_1ha0v0i",
+        "parent_id": "t3_1ha0v0i",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/RoutineSafety4434",
+            "body": "We don't really communicate through email.",
+            "body_html": "<div class=\"md\"><p>We don&#39;t really communicate through email.</p>\n</div>",
+            "created_utc": "2024-12-09 11:48:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m154zfj",
+            "is_submitter": true,
+            "link_id": "t3_1ha0v0i",
+            "parent_id": "t1_m154lms",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/nicetouchxx",
+        "body": "By addressing the mistake promptly, you showed responsibility and a willingness to rectify the situation. Most managers appreciate proactive communication.",
+        "body_html": "<div class=\"md\"><p>By addressing the mistake promptly, you showed responsibility and a willingness to rectify the situation. Most managers appreciate proactive communication.</p>\n</div>",
+        "created_utc": "2024-12-09 11:51:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m155fjj",
+        "is_submitter": false,
+        "link_id": "t3_1ha0v0i",
+        "parent_id": "t3_1ha0v0i",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ThisIsMyCircus40",
+        "body": "It was ok to text her as soon as you figured it out. She may appreciate knowing that in advance so she has time to think about it before she starts work Monday.",
+        "body_html": "<div class=\"md\"><p>It was ok to text her as soon as you figured it out. She may appreciate knowing that in advance so she has time to think about it before she starts work Monday.</p>\n</div>",
+        "created_utc": "2024-12-09 11:56:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "m1564d6",
+        "is_submitter": false,
+        "link_id": "t3_1ha0v0i",
+        "parent_id": "t3_1ha0v0i",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Forgottengoldfishes",
+        "body": "Don't worry about it. I'm going to be honest and tell you that most managers believe their weekends are sacred and don't like work texts unless it is something important. But you will learn that if you did not text your manager some important information and they are blindsided or left out of the loop come Monday, you are going to be told \"you should have informed me\". So these are the no win situations you come across at work. Always pick the option that covers your ass. That is the option your manager would take.",
+        "body_html": "<div class=\"md\"><p>Don&#39;t worry about it. I&#39;m going to be honest and tell you that most managers believe their weekends are sacred and don&#39;t like work texts unless it is something important. But you will learn that if you did not text your manager some important information and they are blindsided or left out of the loop come Monday, you are going to be told &quot;you should have informed me&quot;. So these are the no win situations you come across at work. Always pick the option that covers your ass. That is the option your manager would take.</p>\n</div>",
+        "created_utc": "2024-12-09 12:03:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "m157a8q",
+        "is_submitter": false,
+        "link_id": "t3_1ha0v0i",
+        "parent_id": "t3_1ha0v0i",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/tyleratx",
+        "body": "Nta.  You\u2019re overthinking this.  Mistakes happen.  Just own up to them and most of the time things work out.\n\nI have OCD and tend to panic that I\u2019m in trouble all the time.  Not saying that you have it but you should def see a therapist if you tend to find yourself catastrophizing a lot",
+        "body_html": "<div class=\"md\"><p>Nta.  You\u2019re overthinking this.  Mistakes happen.  Just own up to them and most of the time things work out.</p>\n\n<p>I have OCD and tend to panic that I\u2019m in trouble all the time.  Not saying that you have it but you should def see a therapist if you tend to find yourself catastrophizing a lot</p>\n</div>",
+        "created_utc": "2024-12-09 15:22:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15umth",
+        "is_submitter": false,
+        "link_id": "t3_1ha0v0i",
+        "parent_id": "t3_1ha0v0i",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/RoutineSafety4434",
+            "body": "I think you're right, i was spiraling about this for the past few hours.   \nI think its because there's a chance they'd offer me a position once my internship is over and every little slip up feels like it's making that chance slimmer and slimmer.",
+            "body_html": "<div class=\"md\"><p>I think you&#39;re right, i was spiraling about this for the past few hours.<br/>\nI think its because there&#39;s a chance they&#39;d offer me a position once my internship is over and every little slip up feels like it&#39;s making that chance slimmer and slimmer.</p>\n</div>",
+            "created_utc": "2024-12-09 15:28:46",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15v70w",
+            "is_submitter": true,
+            "link_id": "t3_1ha0v0i",
+            "parent_id": "t1_m15umth",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

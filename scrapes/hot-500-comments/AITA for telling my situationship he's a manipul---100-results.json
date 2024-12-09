@@ -1,0 +1,77 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha3jsw/aita_for_telling_my_situationship_hes_a/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2024-12-09 14:24:29",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1ha3jsw/aita_for_telling_my_situationship_hes_a/",
+      "score": 2,
+      "selftext": "[deleted]",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for telling my situationship he's a manipulator?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Soggy-Ad-1610",
+        "body": "EAH - you should accept his choice and he should accept your conditions.",
+        "body_html": "<div class=\"md\"><p>EAH - you should accept his choice and he should accept your conditions.</p>\n</div>",
+        "created_utc": "2024-12-09 14:35:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15pvm8",
+        "is_submitter": false,
+        "link_id": "t3_1ha3jsw",
+        "parent_id": "t3_1ha3jsw",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Rat-Ram",
+        "body": "Wasted 5 years on this kind of situation. Finally gave him the flick and got with my now husband within 2 weeks. There\u2019s a saying \u201cDon\u2019t let Mr Right pass you by while you\u2019re waiting for Mr Wrong\u201d.",
+        "body_html": "<div class=\"md\"><p>Wasted 5 years on this kind of situation. Finally gave him the flick and got with my now husband within 2 weeks. There\u2019s a saying \u201cDon\u2019t let Mr Right pass you by while you\u2019re waiting for Mr Wrong\u201d.</p>\n</div>",
+        "created_utc": "2024-12-09 14:47:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15r4g9",
+        "is_submitter": false,
+        "link_id": "t3_1ha3jsw",
+        "parent_id": "t3_1ha3jsw",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/dojaratfreckles",
+            "body": "So is it delusional to think maybe he is mr right?",
+            "body_html": "<div class=\"md\"><p>So is it delusional to think maybe he is mr right?</p>\n</div>",
+            "created_utc": "2024-12-09 14:57:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15s51l",
+            "is_submitter": false,
+            "link_id": "t3_1ha3jsw",
+            "parent_id": "t1_m15r4g9",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

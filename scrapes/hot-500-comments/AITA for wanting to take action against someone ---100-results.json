@@ -1,0 +1,154 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9zhk5/aita_for_wanting_to_take_action_against_someone/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/billybearly",
+      "created_utc": "2024-12-09 10:28:54",
+      "distinguished": null,
+      "edited": "2024-12-09 10:33:06",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 8,
+      "permalink": "/r/AITAH/comments/1h9zhk5/aita_for_wanting_to_take_action_against_someone/",
+      "score": 1,
+      "selftext": "I (M24) have once again, my luck, have become a victim of card theft. I recently visited a local fast food chain, where I had used the drive-thru and paid with my card. I was in a hurry to get to my office before my next client being I was on break; so I flew from there directly to my office after the transaction. That evening, I noticed my card was gone, and I most definitely am the type to misplace my belongings from time to time; but was under the general assumption it was amongst my belongings. Now, two days later still card-less (been using apple pay just assuming my card is somewhere in my possession), I received a charge from a local restaurant in which I definitely have not visited. I proceeded today to go down to the location and speak with the manager, who provided me with the phone number, signed receipt with time stamps, and the address where the order was delivered. After doing my own private investigation this evening, I was able to uncover the individual\u2019s name, and photos via instagram. I am sure the individual who used my card is the same person who did the transaction at the fast food establishment. My family personally thinks i\u2019m taking this too far being the charge was only within the 10-20$ range; but i\u2019ve been a victim of card theft before where i\u2019ve lost thousands, and been left at a dead end with no information, nor police cooperation. I don\u2019t necessarily want to absolutely mess someone up around the holidays, but I also don\u2019t wanna leave this unchecked.\n\nNote: I completely understand it\u2019s my fault for not double checking if I had my card post transaction, but I am an airhead sometimes and I was in a rush. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for wanting to take action against someone who used my card.  ",
+      "upvote_ratio": 0.56
+    },
+    "comments": [
+      {
+        "author": "u/gumballbubbles",
+        "body": "You should file a police report.  If everyone continues to let the small transactions slide, identity theft will never end.  They might not do much because it\u2019s only $10-$20 but at least it will be on file and might stop them from doing it again.",
+        "body_html": "<div class=\"md\"><p>You should file a police report.  If everyone continues to let the small transactions slide, identity theft will never end.  They might not do much because it\u2019s only $10-$20 but at least it will be on file and might stop them from doing it again.</p>\n</div>",
+        "created_utc": "2024-12-09 10:39:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14uf2r",
+        "is_submitter": false,
+        "link_id": "t3_1h9zhk5",
+        "parent_id": "t3_1h9zhk5",
+        "score": 9,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/laurasdiary",
+        "body": "I\u2019m confused, are you wondering if you should let a stranger just steal and keep your debit card?",
+        "body_html": "<div class=\"md\"><p>I\u2019m confused, are you wondering if you should let a stranger just steal and keep your debit card?</p>\n</div>",
+        "created_utc": "2024-12-09 10:38:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14u843",
+        "is_submitter": false,
+        "link_id": "t3_1h9zhk5",
+        "parent_id": "t3_1h9zhk5",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/billybearly",
+            "body": "my family\u2019s logic: I should just cancel the card, report fraud, and move on",
+            "body_html": "<div class=\"md\"><p>my family\u2019s logic: I should just cancel the card, report fraud, and move on</p>\n</div>",
+            "created_utc": "2024-12-09 10:40:46",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14uky3",
+            "is_submitter": true,
+            "link_id": "t3_1h9zhk5",
+            "parent_id": "t1_m14u843",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/pixie-ann",
+        "body": "Have you cancelled the card yet?",
+        "body_html": "<div class=\"md\"><p>Have you cancelled the card yet?</p>\n</div>",
+        "created_utc": "2024-12-09 10:46:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14vfex",
+        "is_submitter": false,
+        "link_id": "t3_1h9zhk5",
+        "parent_id": "t3_1h9zhk5",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/billybearly",
+            "body": "as soon as i saw the charge",
+            "body_html": "<div class=\"md\"><p>as soon as i saw the charge</p>\n</div>",
+            "created_utc": "2024-12-09 10:55:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14wuw1",
+            "is_submitter": true,
+            "link_id": "t3_1h9zhk5",
+            "parent_id": "t1_m14vfex",
+            "score": 0,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/pixie-ann",
+                "body": "Good. Report the theft. I\u2019d report it to the place you\u2019re sure it was stolen from too",
+                "body_html": "<div class=\"md\"><p>Good. Report the theft. I\u2019d report it to the place you\u2019re sure it was stolen from too</p>\n</div>",
+                "created_utc": "2024-12-09 11:01:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "m14xtrh",
+                "is_submitter": false,
+                "link_id": "t3_1h9zhk5",
+                "parent_id": "t1_m14wuw1",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/fiorekat1",
+        "body": "NTA. There are consequences for stealing credit cards, go to the police. Get a police report and report it to your card company immediately after. \n\nThey stole someone\u2019s card, it\u2019s their fault if they get in trouble. You are not responsible for their decision to use YOUR card.",
+        "body_html": "<div class=\"md\"><p>NTA. There are consequences for stealing credit cards, go to the police. Get a police report and report it to your card company immediately after. </p>\n\n<p>They stole someone\u2019s card, it\u2019s their fault if they get in trouble. You are not responsible for their decision to use YOUR card.</p>\n</div>",
+        "created_utc": "2024-12-09 10:37:53",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14u4yq",
+        "is_submitter": false,
+        "link_id": "t3_1h9zhk5",
+        "parent_id": "t3_1h9zhk5",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Just_somebody_onhere",
+        "body": "Things that never happened for $200, Alex.",
+        "body_html": "<div class=\"md\"><p>Things that never happened for $200, Alex.</p>\n</div>",
+        "created_utc": "2024-12-09 10:42:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14uw8o",
+        "is_submitter": false,
+        "link_id": "t3_1h9zhk5",
+        "parent_id": "t3_1h9zhk5",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

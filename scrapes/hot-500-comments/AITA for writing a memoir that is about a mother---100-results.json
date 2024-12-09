@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9qsbl/aita_for_writing_a_memoir_that_is_about_a_mother/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/iwannaventbutimpoor",
+      "created_utc": "2024-12-09 03:35:35",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9qsbl/aita_for_writing_a_memoir_that_is_about_a_mother/",
+      "score": 3,
+      "selftext": "I (16 F) dont have good relationship with my mom, which causes us to have lots of fights over stupid things. But I have a taekwondo teacher who is nice to me and treats me like her daughter. She even gives me gifts on my birthday and comes to my sparring events when my mom isn\u2019t there. So, there is this writing competition, so I decided to write a memoir about that teacher. I had already submitted it, but my mom wanted to read it. And she found out that I was writing a story about a mother figure that isnt her. She asked me to delete it, but 8 said no (it was one of my best writing pieces). Now she\u2019s disappointed with me. So Reddit, AITAH for not deleting the story?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for writing a memoir that is about a mother figure that\u2019s not my biological mother.",
+      "upvote_ratio": 0.8
+    },
+    "comments": [
+      {
+        "author": "u/True_Raspberry_564",
+        "body": "NTA \u2013 You have the right to express your feelings and appreciate someone who supports you, even if it upsets your mom; her reaction reflects her own insecurities, not your wrongdoing.",
+        "body_html": "<div class=\"md\"><p>NTA \u2013 You have the right to express your feelings and appreciate someone who supports you, even if it upsets your mom; her reaction reflects her own insecurities, not your wrongdoing.</p>\n</div>",
+        "created_utc": "2024-12-09 03:37:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12t078",
+        "is_submitter": false,
+        "link_id": "t3_1h9qsbl",
+        "parent_id": "t3_1h9qsbl",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lost_In_Sauce69",
+        "body": "Your mother had every day of your life to change and have a better relationship with you. She is the one person who is supposed to be there when nobody else is, and if that\u2019s not who she is, that\u2019s not your fault. Your teacher gave you that guidance and admiration you deserve. And she deserves to be written about.",
+        "body_html": "<div class=\"md\"><p>Your mother had every day of your life to change and have a better relationship with you. She is the one person who is supposed to be there when nobody else is, and if that\u2019s not who she is, that\u2019s not your fault. Your teacher gave you that guidance and admiration you deserve. And she deserves to be written about.</p>\n</div>",
+        "created_utc": "2024-12-09 03:46:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12us1y",
+        "is_submitter": false,
+        "link_id": "t3_1h9qsbl",
+        "parent_id": "t3_1h9qsbl",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/One-Energy4563",
+        "body": "NTA.  I hope she sees herself in mirror and asks herself what did she do.  She better learns her lessons and starts to respect you and your life.",
+        "body_html": "<div class=\"md\"><p>NTA.  I hope she sees herself in mirror and asks herself what did she do.  She better learns her lessons and starts to respect you and your life.</p>\n</div>",
+        "created_utc": "2024-12-09 08:05:53",
+        "distinguished": null,
+        "edited": false,
+        "id": "m145kt7",
+        "is_submitter": false,
+        "link_id": "t3_1h9qsbl",
+        "parent_id": "t3_1h9qsbl",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
