@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha2fuj/aitah_for_not_warning_my_college_roommate_of_bad/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Odd_Studio5126",
+      "created_utc": "2024-12-09 13:13:20",
+      "distinguished": null,
+      "edited": "2024-12-09 13:39:46",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1ha2fuj/aitah_for_not_warning_my_college_roommate_of_bad/",
+      "score": 1,
+      "selftext": "He\u2019s \n1. Already in 3k+ credit card debt \n2.Student loan debt (if you count that)\n3.Just likes expensive shit\nHe plans on getting an apartment after the spring semester and he just told me about getting a cash car but now he\u2019s about to get a 19,000 car with a 300 a month payment tomorrow. I usually just don\u2019t care whatever the fuck he does but his friends did talk him out getting an apartment in a city an hour away the coming semester. I\u2019m not one to intervene in other peoples business but I think it\u2019s kinda retarded given that we\u2019re RAs and he plans to be one until we graduate. Should I be a good friend or let Darwinism run its course?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for not warning my college roommate of bad financial decisions ",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Tiny_Air5180",
+        "body": "You cant help money-stupid.",
+        "body_html": "<div class=\"md\"><p>You cant help money-stupid.</p>\n</div>",
+        "created_utc": "2024-12-09 13:23:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15hvq3",
+        "is_submitter": false,
+        "link_id": "t3_1ha2fuj",
+        "parent_id": "t3_1ha2fuj",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/globaltrekker1",
+        "body": "NTA\n\nSome lessons people need to learn the hard way for themselves. \n\nWhen I just started working I financed a new BMW. My dad told me not to, but I  knew better. Turns out that was a disaster, but also a  great lesson about frugality that stood with me for 30 years.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>Some lessons people need to learn the hard way for themselves. </p>\n\n<p>When I just started working I financed a new BMW. My dad told me not to, but I  knew better. Turns out that was a disaster, but also a  great lesson about frugality that stood with me for 30 years.</p>\n</div>",
+        "created_utc": "2024-12-09 13:32:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15izhn",
+        "is_submitter": false,
+        "link_id": "t3_1ha2fuj",
+        "parent_id": "t3_1ha2fuj",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ProfessionalShop781",
+        "body": "YTA for formatting your post this terribly",
+        "body_html": "<div class=\"md\"><p>YTA for formatting your post this terribly</p>\n</div>",
+        "created_utc": "2024-12-09 13:15:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15gxg6",
+        "is_submitter": false,
+        "link_id": "t3_1ha2fuj",
+        "parent_id": "t3_1ha2fuj",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

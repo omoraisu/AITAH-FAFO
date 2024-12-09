@@ -1,0 +1,46 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9q9me/aitah_for_wanting_space_in_my_own_bed/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Desperate_Ad2463",
+      "created_utc": "2024-12-09 03:12:28",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 1,
+      "permalink": "/r/AITAH/comments/1h9q9me/aitah_for_wanting_space_in_my_own_bed/",
+      "score": 2,
+      "selftext": "our son loves to sleep in our bed. he's 9. I know some might think that's too old, but we've always let him do it since he was a baby. but every time he sleeps in our bed I have no room and wake up with back and/or hip pain, he insists on sleeping right up against me. every time I try to encourage him sleeping in his own bed, he ignores it. if he's in our bed and I pay any attention to him at all, he gets super pissed off. I just don't know what to do anymore. \nalso he's a cat ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for wanting space in my own bed",
+      "upvote_ratio": 0.75
+    },
+    "comments": [
+      {
+        "author": "u/Kryton101",
+        "body": "Haha and likes to sleep across the bed?",
+        "body_html": "<div class=\"md\"><p>Haha and likes to sleep across the bed?</p>\n</div>",
+        "created_utc": "2024-12-09 06:36:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13qf4z",
+        "is_submitter": false,
+        "link_id": "t3_1h9q9me",
+        "parent_id": "t3_1h9q9me",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

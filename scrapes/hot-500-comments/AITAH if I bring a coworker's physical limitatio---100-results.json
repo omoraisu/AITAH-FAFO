@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9qtkl/aitah_if_i_bring_a_coworkers_physical_limitations/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/123456789_00",
+      "created_utc": "2024-12-09 03:37:09",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9qtkl/aitah_if_i_bring_a_coworkers_physical_limitations/",
+      "score": 1,
+      "selftext": "Little background -- I work in healthcare. A very, *very* busy, high-patient turnover, procedural area. \n\nThe hard part: My older coworker (50's) is very much overweight, and has bad knees (osteoarthritis - it is truly painful). This person has worked in this same hospital for >30 years. Excellent provider. Great knowledge base. Lovely, lovely person. Very smart, well-loved, and well-known. Also loved by myself. We are good friends - met at work several years ago when I started.\n\nThe problem is that she absolutely does not contribute to patient care because she physically cannot even stand (she uses a cane). Her knees prevent her from walking, and she gets very short of breath, even upon taking just a few short steps. In the area that we work, we are like bouncy-springs : we have to get up very, very, **very** frequently to move patients through the environment to achieve their exams. Constantly getting up when a new patient arrives, and sitting back down to document for a few seconds, and then getting right back up again because another patient needs you. It's like this all shift long, by the nature of the environment we work in. \n\nWe work the same shift, and I inevitably end up doing the vast majority of the work - and it's really taking a toll on me, and I can feel myself becoming more and more annoyed by the situation. All of her other coworkers definitely make up for her deficits and areas of lack, but this feels so unfair to everyone else who has to \"make up for\" her physical limitations. As much as I love her, and everyone else does, too.....I'm not sure I can keep on like this. I'm not mad at her or anything. I just think she needs to be able to be held to the same expectations that everyone else is held to at work - standing long hours, lifting, moving patients, etc etc. But she truly cannot do any of these things. She went to try to have her knee replaced, but her orthopedic team told her she is too overweight for surgery right now.\n\nSo.... I don't want to rock the boat. I don't want to create drama. Should I just leave this be, and just deal with it so that I don't create a rift between her and everyone else (including myself), and embarrass her for her limitations? Or is this reasonable to bring this to my manager, and discuss this? I feel like such an asshole because she really is fantastic, but she physically cannot do the job, and everyone else has been making up for it. AITAH if I talk to my manager about this? I feel so torn and guilty because I really do care about her.\n\n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH if I bring a coworker's physical limitations at work to my manager's attention?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/YuunofYork",
+        "body": "Maybe the best bet is a roundabout way.  Suggest they take on an extra hire to shore up the load.  It'll be obvious what you mean and show them they're going to lose money from this in the long run.",
+        "body_html": "<div class=\"md\"><p>Maybe the best bet is a roundabout way.  Suggest they take on an extra hire to shore up the load.  It&#39;ll be obvious what you mean and show them they&#39;re going to lose money from this in the long run.</p>\n</div>",
+        "created_utc": "2024-12-09 04:04:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12y63x",
+        "is_submitter": false,
+        "link_id": "t3_1h9qtkl",
+        "parent_id": "t3_1h9qtkl",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/epeeist42",
+        "body": "INFO: If she's a friend and excellent, why can't you speak with her first e.g. \"I'm concerned, you're great, but I'm finding it difficult moving all the patients and doing related physical care myself. Do you have any ideas?\"\n\nI mean, I can't think of anything and you can't, but maybe she has a great idea, maybe she'll talk to manager about getting an accommodation for her disability such as an assistant, whatever. But if she has idea or takes action, great.",
+        "body_html": "<div class=\"md\"><p>INFO: If she&#39;s a friend and excellent, why can&#39;t you speak with her first e.g. &quot;I&#39;m concerned, you&#39;re great, but I&#39;m finding it difficult moving all the patients and doing related physical care myself. Do you have any ideas?&quot;</p>\n\n<p>I mean, I can&#39;t think of anything and you can&#39;t, but maybe she has a great idea, maybe she&#39;ll talk to manager about getting an accommodation for her disability such as an assistant, whatever. But if she has idea or takes action, great.</p>\n</div>",
+        "created_utc": "2024-12-09 11:25:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "m151j21",
+        "is_submitter": false,
+        "link_id": "t3_1h9qtkl",
+        "parent_id": "t3_1h9qtkl",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

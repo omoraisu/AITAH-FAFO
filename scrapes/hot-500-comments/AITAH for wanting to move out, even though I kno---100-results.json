@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9sc1d/aitah_for_wanting_to_move_out_even_though_i_know/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Zenon31",
+      "created_utc": "2024-12-09 04:44:20",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9sc1d/aitah_for_wanting_to_move_out_even_though_i_know/",
+      "score": 1,
+      "selftext": "I had been considering moving out of my apartment for a couple months now, but ultimately decided not to.\nThe reason I wanted to move out is because my roommate drinks and becomes obnoxious and loud and is overall annoying to be around. We have lived together for years now and my patience is gone. it is almost to the point where I do not want to care at all. but I still do because we have helped each other out over the years and I know that he cannot afford to live alone.\n\nwe are about to sign a 6 month lease renewal, but after that, would I be the AH for leaving.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for wanting to move out, even though I know that he has no where else to go and would probably become homeless?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/iMeeruh",
+        "body": "Move out. You guys helped each other and that is good but if it's a place that does not bring you joy anymore then no point in staying there. Not sure what else is there.",
+        "body_html": "<div class=\"md\"><p>Move out. You guys helped each other and that is good but if it&#39;s a place that does not bring you joy anymore then no point in staying there. Not sure what else is there.</p>\n</div>",
+        "created_utc": "2024-12-09 04:49:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "m136ps1",
+        "is_submitter": false,
+        "link_id": "t3_1h9sc1d",
+        "parent_id": "t3_1h9sc1d",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/teresajs",
+        "body": "You need to take care of your needs, including your mental and physical well-being.\u00a0 Don't sign the lease extension.\u00a0 Move out now.",
+        "body_html": "<div class=\"md\"><p>You need to take care of your needs, including your mental and physical well-being.\u00a0 Don&#39;t sign the lease extension.\u00a0 Move out now.</p>\n</div>",
+        "created_utc": "2024-12-09 05:10:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13asj6",
+        "is_submitter": false,
+        "link_id": "t3_1h9sc1d",
+        "parent_id": "t3_1h9sc1d",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

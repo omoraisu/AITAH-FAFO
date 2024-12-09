@@ -1,0 +1,124 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9n4ia/aitah_for_wanting_gas_money_from_my_roommate/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Plus_Possession89",
+      "created_utc": "2024-12-09 00:55:33",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 6,
+      "permalink": "/r/AITAH/comments/1h9n4ia/aitah_for_wanting_gas_money_from_my_roommate/",
+      "score": 1,
+      "selftext": "For context, we played softball in college together and have been best friends for 3 years. She offered me a job position at her job and I moved 5 hours from family and we became roomies! Okay so it\u2019s been about 2 months and we take my car everywhere, including to her family\u2019s place that takes about 2 hrs there and back. Her car is always in the shop so we kinda have to take mine. Now this job she knows I make less, and I know she makes double what I make, but I do get some help from family since I\u2019m also a full time college student. We usually always either go half or she pays then I pay (for food, drinks and stuff) , but she\u2019s never offered to help with gas\u2026 I\u2019m only saying that because this month I paid our electricity and she said she\u2019d pay me back on payday and didn\u2019t\u2026 so would I be an asshole to ask her for gas money, because we take my car literally everywhere? Might seem stupid, but I have pretty bad anxiety and overthink many things that shouldn\u2019t! So just wanted some help figuring it out :) ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH For Wanting Gas Money From My Roommate?",
+      "upvote_ratio": 0.67
+    },
+    "comments": [
+      {
+        "author": "u/Nerdy_romancer",
+        "body": "NTA. It\u2019s great that you usually split things and it\u2019s sounds like you have a good relationship. Asking for gas money is reasonable especially if you drive everywhere. She may not have even thought about it because you split other things.",
+        "body_html": "<div class=\"md\"><p>NTA. It\u2019s great that you usually split things and it\u2019s sounds like you have a good relationship. Asking for gas money is reasonable especially if you drive everywhere. She may not have even thought about it because you split other things.</p>\n</div>",
+        "created_utc": "2024-12-09 01:06:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "m11zqna",
+        "is_submitter": false,
+        "link_id": "t3_1h9n4ia",
+        "parent_id": "t3_1h9n4ia",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Plus_Possession89",
+            "body": "Thank you! I believe I\u2019m just overthinking but you\u2019ve validated my feelings <3",
+            "body_html": "<div class=\"md\"><p>Thank you! I believe I\u2019m just overthinking but you\u2019ve validated my feelings &lt;3</p>\n</div>",
+            "created_utc": "2024-12-09 01:08:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "m1201wi",
+            "is_submitter": true,
+            "link_id": "t3_1h9n4ia",
+            "parent_id": "t1_m11zqna",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Winternin",
+        "body": "NTA. A reasonable roommate would offer gas money proactively in this case.",
+        "body_html": "<div class=\"md\"><p>NTA. A reasonable roommate would offer gas money proactively in this case.</p>\n</div>",
+        "created_utc": "2024-12-09 01:06:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m11zttd",
+        "is_submitter": false,
+        "link_id": "t3_1h9n4ia",
+        "parent_id": "t3_1h9n4ia",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Plus_Possession89",
+            "body": "Thank you! I will keep that in mind :)",
+            "body_html": "<div class=\"md\"><p>Thank you! I will keep that in mind :)</p>\n</div>",
+            "created_utc": "2024-12-09 01:08:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "m1203bn",
+            "is_submitter": true,
+            "link_id": "t3_1h9n4ia",
+            "parent_id": "t1_m11zttd",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/FlamingHotPanda",
+        "body": "NTA, same as others said. It's very reasonable to expect her to split gas money.",
+        "body_html": "<div class=\"md\"><p>NTA, same as others said. It&#39;s very reasonable to expect her to split gas money.</p>\n</div>",
+        "created_utc": "2024-12-09 01:19:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "m1226bq",
+        "is_submitter": false,
+        "link_id": "t3_1h9n4ia",
+        "parent_id": "t3_1h9n4ia",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Plus_Possession89",
+            "body": "Thank you :)",
+            "body_html": "<div class=\"md\"><p>Thank you :)</p>\n</div>",
+            "created_utc": "2024-12-09 02:27:48",
+            "distinguished": null,
+            "edited": false,
+            "id": "m12fcqd",
+            "is_submitter": true,
+            "link_id": "t3_1h9n4ia",
+            "parent_id": "t1_m1226bq",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

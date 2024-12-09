@@ -1,0 +1,77 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9i487/aitah_for_playing_both_sides_a_little_and_not/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Charming-Pen1774",
+      "created_utc": "2024-12-08 20:46:15",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9i487/aitah_for_playing_both_sides_a_little_and_not/",
+      "score": 4,
+      "selftext": "my grandpa on my moms side recently passed and to my moms surprise her brother, my uncle, received the whole house to himself. With some investigating my mom found out my grandpa gifted my uncle the house a year or so ago. a little backstory, my uncle and mom don\u2019t get along bc my mom likes to stir up drama and talking to her is like walking on eggshells sometimes and he doesn\u2019t want any of that in his life which is understandable. i myself have even kept my mom at arms length so i don\u2019t get into arguments with her as well. she is trying to say that it is her right to have part of the house. mind you my uncle stayed in the same city his whole life and helped my grandpa if he needed it while my mom moved to a whole other country after she turned 18. she helped my grandpa financially some. my mom has texted me every week since then about how i should stand by her in this and i have repeatedly said i don\u2019t want to be involved. i have talked to my uncle only a little but he is saying it\u2019s his right to have the house bc of everything he has done for my grandpa and he doesn\u2019t want my mom around bc of all the arguments she causes. if i had to pick a side i would stand by my uncle but like i said before i don\u2019t want to be involved. i think i would stir up more shit if i started agreeing with my uncle so i should just leave it as is. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for playing both sides a little and not wanting to be involved",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Queenofmyroses",
+        "body": "You're NTA for not wanting to get involved. It\u2019s clear this situation is complicated and emotionally charged, but it\u2019s also a matter between your mom and your uncle. It\u2019s reasonable to want to avoid taking sides, especially since it seems like both parties have their own perspectives and grievances.\n\nYour uncle may have a valid claim to the house if it was legally gifted to him, and your mom\u2019s feelings of being left out are also understandable. However, it\u2019s not your responsibility to mediate or pick a side. Staying neutral is a smart choice to avoid unnecessary conflict in your own life.\n\nIf your mom keeps pressuring you, it\u2019s okay to set firm boundaries, like saying, \u201cI understand how you feel, but this is something between you and Uncle. I don\u2019t want to be involved because I care about both of you.\u201d It\u2019s not your job to fix their relationship or validate one side over the other. Keep protecting your peace.",
+        "body_html": "<div class=\"md\"><p>You&#39;re NTA for not wanting to get involved. It\u2019s clear this situation is complicated and emotionally charged, but it\u2019s also a matter between your mom and your uncle. It\u2019s reasonable to want to avoid taking sides, especially since it seems like both parties have their own perspectives and grievances.</p>\n\n<p>Your uncle may have a valid claim to the house if it was legally gifted to him, and your mom\u2019s feelings of being left out are also understandable. However, it\u2019s not your responsibility to mediate or pick a side. Staying neutral is a smart choice to avoid unnecessary conflict in your own life.</p>\n\n<p>If your mom keeps pressuring you, it\u2019s okay to set firm boundaries, like saying, \u201cI understand how you feel, but this is something between you and Uncle. I don\u2019t want to be involved because I care about both of you.\u201d It\u2019s not your job to fix their relationship or validate one side over the other. Keep protecting your peace.</p>\n</div>",
+        "created_utc": "2024-12-08 20:59:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "m10vz7k",
+        "is_submitter": false,
+        "link_id": "t3_1h9i487",
+        "parent_id": "t3_1h9i487",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Charming-Pen1774",
+            "body": "thank you that\u2019s exactly my thoughts and what i wanted to hear",
+            "body_html": "<div class=\"md\"><p>thank you that\u2019s exactly my thoughts and what i wanted to hear</p>\n</div>",
+            "created_utc": "2024-12-08 23:03:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "m11dndh",
+            "is_submitter": true,
+            "link_id": "t3_1h9i487",
+            "parent_id": "t1_m10vz7k",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Outrageous_Side_510",
+        "body": "Remind your mother politely that you respect both connections but don't want to take sides in a family conflict. Remain impartial and solid in your decision to stay out of the situation.",
+        "body_html": "<div class=\"md\"><p>Remind your mother politely that you respect both connections but don&#39;t want to take sides in a family conflict. Remain impartial and solid in your decision to stay out of the situation.</p>\n</div>",
+        "created_utc": "2024-12-08 21:41:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "m111dre",
+        "is_submitter": false,
+        "link_id": "t3_1h9i487",
+        "parent_id": "t3_1h9i487",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
