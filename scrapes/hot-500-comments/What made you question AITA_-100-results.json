@@ -1,0 +1,46 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha0g2q/what_made_you_question_aita/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/akwardhi",
+      "created_utc": "2024-12-09 11:20:33",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 1,
+      "permalink": "/r/AITAH/comments/1ha0g2q/what_made_you_question_aita/",
+      "score": 0,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "What made you question AITA?",
+      "upvote_ratio": 0.25
+    },
+    "comments": [
+      {
+        "author": "u/Known_Two_2072",
+        "body": "Dumb*** post like this wrong sub",
+        "body_html": "<div class=\"md\"><p>Dumb*** post like this wrong sub</p>\n</div>",
+        "created_utc": "2024-12-09 11:22:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "m150yfv",
+        "is_submitter": false,
+        "link_id": "t3_1ha0g2q",
+        "parent_id": "t3_1ha0g2q",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

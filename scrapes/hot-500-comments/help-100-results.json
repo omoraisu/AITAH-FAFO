@@ -1,0 +1,62 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9w6n0/help/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Prestigious-Piece516",
+      "created_utc": "2024-12-09 07:40:43",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9w6n0/help/",
+      "score": 2,
+      "selftext": "AITA? \nI\u2019m 17f and my boyfriend is 18M. I\u2019m 6 months pregnant, and my grandma has made it very difficult for us. Of course i still live with her because i have to and my boyfriend stays most nights to take care of me. \n\nEvery week my grandma will come home and complain about how we do NOTHING. Which isn\u2019t true. We clean her dishes, take the trash out for her, make dinner, carry heavy stuff in for her, we clean the bathroom sometimes and then my room. \n\nMe and my boyfriend practically stay in my room and live in here, we wash our dishes (if we use any) and it\u2019s still a problem. \n\nMy grandma (66) is a hoarder, with food and materialistic items. Hence why me and Boyfriend don\u2019t eat the food because it\u2019s either expired or it\u2019s moldy. The living room piles up with clutter and she piles things on top of each other and then complains she has no room, and that nobody helps her clean. What am i supposed to do? Pile more on top of each other?. \n\nIt doesn\u2019t make it any better because she\u2019s NEVER home, from around 8AM-6/7PM she isn\u2019t home. She\u2019s either with her sister all day or shopping and doing church things. EVERY DAY.  My grandpa sleeps all the time and is very ill, so we help out and sometimes we even make her bed when she\u2019s feeling a little low. (i know it\u2019s not much). \n\nMy boyfriend works most days too, so when he is here he helps. But, he spent the night last night and had work at 2pm, and she took him and then we went shopping for groceries, and then we came home and it was all fine and dandy. Next thing you know, she comes into my room talking about how she shouldn\u2019t have to clean up after us (we left one pan from the air fryer from last night) and then started blaming my boyfriend for not helping and how we do nothing, and how she\u2019s 66 years old and needs help. She then proceeded to say \u201cHe thinks he lives here and he doesn\u2019t i pay all the bills and he\u2019s eating up all our food\u201d so on so forth. (she also uses my wic card and gets 2K from my dads death which is supposed to be my money) \n\nI feel as if she doesn\u2019t like him being around much because when she was young and pregnant her BD wasn\u2019t there for her and it makes her upset. But, when he\u2019s here she asks him to do almost everything. \n\nI told my boyfriend that i think he should only come over a couple times a week and stay home on weekends and see how much she needed him to help. AITA? How is it our fault that there\u2019s clutter and the house is messy if we live in my room and still clean up after her? Should we do more? She expects him to do everything when he works and has school too, she literally does nothing. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "help",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/koalabear20",
+        "body": "Could you not move in with your boyfriend? She seems overwhelmed or just annoyed by yours/ your boyfriend\u2019s presence.",
+        "body_html": "<div class=\"md\"><p>Could you not move in with your boyfriend? She seems overwhelmed or just annoyed by yours/ your boyfriend\u2019s presence.</p>\n</div>",
+        "created_utc": "2024-12-09 07:47:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m142iqw",
+        "is_submitter": false,
+        "link_id": "t3_1h9w6n0",
+        "parent_id": "t3_1h9w6n0",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Prestigious-Piece516",
+            "body": "my boyfriend lives with his uncle & 2 cousins. he turned 18 in june, so he doesn\u2019t have his own place .",
+            "body_html": "<div class=\"md\"><p>my boyfriend lives with his uncle &amp; 2 cousins. he turned 18 in june, so he doesn\u2019t have his own place .</p>\n</div>",
+            "created_utc": "2024-12-09 07:50:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m1430r4",
+            "is_submitter": true,
+            "link_id": "t3_1h9w6n0",
+            "parent_id": "t1_m142iqw",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

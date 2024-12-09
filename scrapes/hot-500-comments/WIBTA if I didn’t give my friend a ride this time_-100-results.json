@@ -1,0 +1,92 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha238e/wibta_if_i_didnt_give_my_friend_a_ride_this_time/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Traditional_Swim_812",
+      "created_utc": "2024-12-09 12:53:10",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1ha238e/wibta_if_i_didnt_give_my_friend_a_ride_this_time/",
+      "score": 1,
+      "selftext": "A friend of mine, let\u2019s call her Sam, is constantly late to things and planning with her usually means we\u2019re rushing. I\u2019ve had conversations with her about this and how having to make me wait 10 minutes every time I pick her up, or having to reschedule things because her lack of planning really messes with my time. I\u2019ve told her before that if she\u2019s running 20 minutes late then we\u2019re better off rescheduling which we have. Since our talk I can\u2019t really tell if she has gotten better because we have busy schedules and I have been avoiding planning things with her for this reason. Now, our other friend is having a baby shower an hour out in the burbs and Sam invited herself to come with me because her car is being fixed l. I\u2019m already overthinking and having anxiety about sticking to my boundaries with her. I told our pregnant friend that I would go earlier to help her set up so I don\u2019t want to run late and rushing in the morning is not fun. I plan on reminding sam the day of that I\u2019m leaving to pick her up at a certain time so we can be at the place on time. Say, she\u2019s not ready and has me waiting out there for 10+ minutes and considering she doesn\u2019t have a car to drive out there would I be the asshole if I left her? Should I suck it up this one time since it means she might miss our friend\u2019s baby shower?  I mean, it\u2019s either coming with me and being on my time or Uber. Asking her mom to let her borrow the car I guess too. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "WIBTA if I didn\u2019t give my friend a ride this time?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Upstairs-Candle-9863",
+        "body": "I would just be firm and say i need you out on the curb at this time if you are not there then I'm heading to where I need to be. its not on you if she cant be ready on time.",
+        "body_html": "<div class=\"md\"><p>I would just be firm and say i need you out on the curb at this time if you are not there then I&#39;m heading to where I need to be. its not on you if she cant be ready on time.</p>\n</div>",
+        "created_utc": "2024-12-09 12:58:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15ermn",
+        "is_submitter": false,
+        "link_id": "t3_1ha238e",
+        "parent_id": "t3_1ha238e",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Traditional_Swim_812",
+            "body": "People have made me feel responsible for her before so this is reassuring. Thanks for your input!",
+            "body_html": "<div class=\"md\"><p>People have made me feel responsible for her before so this is reassuring. Thanks for your input!</p>\n</div>",
+            "created_utc": "2024-12-09 13:07:11",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15fvpz",
+            "is_submitter": true,
+            "link_id": "t3_1ha238e",
+            "parent_id": "t1_m15ermn",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Current-Squash-8842",
+        "body": "You\u2019ve already tried to address this issue with Sam, and it hasn\u2019t improved. Let her know the exact time you\u2019ll leave and stick to it. It might feel harsh, but sometimes people need to face the consequences of their actions to understand the impact.",
+        "body_html": "<div class=\"md\"><p>You\u2019ve already tried to address this issue with Sam, and it hasn\u2019t improved. Let her know the exact time you\u2019ll leave and stick to it. It might feel harsh, but sometimes people need to face the consequences of their actions to understand the impact.</p>\n</div>",
+        "created_utc": "2024-12-09 13:06:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15fseb",
+        "is_submitter": false,
+        "link_id": "t3_1ha238e",
+        "parent_id": "t3_1ha238e",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/calacmack",
+        "body": "People tend to become more responsible when they experience the negative consequences of their behavior. NTA.",
+        "body_html": "<div class=\"md\"><p>People tend to become more responsible when they experience the negative consequences of their behavior. NTA.</p>\n</div>",
+        "created_utc": "2024-12-09 14:02:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15metr",
+        "is_submitter": false,
+        "link_id": "t3_1ha238e",
+        "parent_id": "t3_1ha238e",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

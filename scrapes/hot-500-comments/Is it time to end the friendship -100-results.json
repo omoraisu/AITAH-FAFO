@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha3jy8/is_it_time_to_end_the_friendship/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2024-12-09 14:24:44",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1ha3jy8/is_it_time_to_end_the_friendship/",
+      "score": 1,
+      "selftext": "Last year my bsf was rude to me all of a sudden and when I'd asked her what happened she was very very rude and told me that she was not interested in the friendship. After a month she again texted me and apologized and I forgave her. But still I don't seem to have any interest in being her friend anymore after this incident. I just accepted her apology like any other person would forgive when someone told them sorry, but the matter is she behaves like nothing had happened and just seems to be like a friend though she posts snippets of her other friends and says \"Best Friends\". But when we hangout she doesn't seem to be enthusiastic enough and keeps ranting about her new friends and keeps talking to them on the phone. And during my birthday,she deletes all her socials and gives some reason for it which makes me feel like she doesn't want others to know that we're still friends. I just sometimes feel that maybe I forgave her because I don't have any other friends but it just makes me feel so uncomfortable to be her friend. Added to all these, she texts my crush with a heart emoji and says that she doesn't like him at all. \nAm I literally being an asshole here???",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Is it time to end the friendship ",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Ok_Communication6962",
+        "body": "Yta!!! But you do need better friends! I\u2019m sorry that happened to you",
+        "body_html": "<div class=\"md\"><p>Yta!!! But you do need better friends! I\u2019m sorry that happened to you</p>\n</div>",
+        "created_utc": "2024-12-09 14:26:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15p0f0",
+        "is_submitter": false,
+        "link_id": "t3_1ha3jy8",
+        "parent_id": "t3_1ha3jy8",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ElevatorFew3005",
+        "body": "Your life sounds like it has room for more friends.  I am really old and still make new friends.  It's part of the fun of life.",
+        "body_html": "<div class=\"md\"><p>Your life sounds like it has room for more friends.  I am really old and still make new friends.  It&#39;s part of the fun of life.</p>\n</div>",
+        "created_utc": "2024-12-09 14:33:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15pra4",
+        "is_submitter": false,
+        "link_id": "t3_1ha3jy8",
+        "parent_id": "t3_1ha3jy8",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

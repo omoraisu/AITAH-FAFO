@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9uae7/weddings/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/charlie_work5",
+      "created_utc": "2024-12-09 06:11:50",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9uae7/weddings/",
+      "score": 2,
+      "selftext": "SO and I have two weddings on the same day next year. They are both out of state and include lifelong friends getting married. SO is in one of the weddings. They already RSVP'd yes to the wedding for both of us even though I don't remember saying I could make it. I haven't RSVP'd to my wedding yet because the talks we had about it never came to a conclusion on what we were going to do.\n\nI brought it back up again today because my friend wants to know if I am able to make it, and when I suggested going to each of the weddings separately things escalated. SO wants us to go together to their friend's wedding and is hurt that I won't be there with them. I don't think it is that big of a deal to be at separate weddings for a weekend. I'd like to go to both but clearly cannot, so I'd rather go to my friends. When SO pressed me about my decision I conveyed to them that I was firm in going to my friends. AITAH?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Weddings",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/xyylinaa",
+        "body": "NTA its your call, not theirs.. which wedding matters more to you.. their guilt tripping isn't a valid RSVP strategy",
+        "body_html": "<div class=\"md\"><p>NTA its your call, not theirs.. which wedding matters more to you.. their guilt tripping isn&#39;t a valid RSVP strategy</p>\n</div>",
+        "created_utc": "2024-12-09 06:42:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13rirf",
+        "is_submitter": false,
+        "link_id": "t3_1h9uae7",
+        "parent_id": "t3_1h9uae7",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/I_am_into_it",
+        "body": "I don\u2019t think so. I\u2019d do the same thing and not try to convince my boyfriend not to go to his friend\u2019s wedding. Going separately should be just fine. Good luck! Update us.",
+        "body_html": "<div class=\"md\"><p>I don\u2019t think so. I\u2019d do the same thing and not try to convince my boyfriend not to go to his friend\u2019s wedding. Going separately should be just fine. Good luck! Update us.</p>\n</div>",
+        "created_utc": "2024-12-09 06:41:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13rb9c",
+        "is_submitter": false,
+        "link_id": "t3_1h9uae7",
+        "parent_id": "t3_1h9uae7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ER_Support_Plant17",
+        "body": "OMG my husband and I went separately to weddings that weren\u2019t even on the same date just to save money. Your SO is insecure.",
+        "body_html": "<div class=\"md\"><p>OMG my husband and I went separately to weddings that weren\u2019t even on the same date just to save money. Your SO is insecure.</p>\n</div>",
+        "created_utc": "2024-12-09 07:00:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13uoww",
+        "is_submitter": false,
+        "link_id": "t3_1h9uae7",
+        "parent_id": "t3_1h9uae7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

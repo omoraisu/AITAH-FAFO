@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9z5vx/wwyd/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Mundane_Web_3572",
+      "created_utc": "2024-12-09 10:11:38",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9z5vx/wwyd/",
+      "score": 1,
+      "selftext": "Your partners asks you to grab something from the center console of the couch. You don\u2019t store things in there, but they do. You open the center console and a bunch of roaches come running out at you. I started yelling. What would you do?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "WWYD?",
+      "upvote_ratio": 0.6
+    },
+    "comments": [
+      {
+        "author": "u/PathSpecialist560",
+        "body": "Pee in my pants",
+        "body_html": "<div class=\"md\"><p>Pee in my pants</p>\n</div>",
+        "created_utc": "2024-12-09 10:15:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14qj26",
+        "is_submitter": false,
+        "link_id": "t3_1h9z5vx",
+        "parent_id": "t3_1h9z5vx",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/OkayCorn",
+        "body": "jump up and yell at them to get them outside",
+        "body_html": "<div class=\"md\"><p>jump up and yell at them to get them outside</p>\n</div>",
+        "created_utc": "2024-12-09 10:17:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14qxbk",
+        "is_submitter": false,
+        "link_id": "t3_1h9z5vx",
+        "parent_id": "t3_1h9z5vx",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/offwidthe",
+        "body": "Assume it was a prank. We don\u2019t have roaches.",
+        "body_html": "<div class=\"md\"><p>Assume it was a prank. We don\u2019t have roaches.</p>\n</div>",
+        "created_utc": "2024-12-09 10:14:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14qfpg",
+        "is_submitter": false,
+        "link_id": "t3_1h9z5vx",
+        "parent_id": "t3_1h9z5vx",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

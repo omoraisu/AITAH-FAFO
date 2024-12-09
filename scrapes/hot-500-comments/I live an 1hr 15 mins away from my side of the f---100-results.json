@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9xj5b/i_live_an_1hr_15_mins_away_from_my_side_of_the/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/_Today_9972",
+      "created_utc": "2024-12-09 08:47:01",
+      "distinguished": null,
+      "edited": "2024-12-09 08:53:09",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1h9xj5b/i_live_an_1hr_15_mins_away_from_my_side_of_the/",
+      "score": 2,
+      "selftext": "I moved to my finances home in Delaware USA from my parents house in New Jersey USA. Since I\u2019ve moved in we got engaged, are planning our wedding and I\u2019m the happiest I think I\u2019ve ever been. With that comes the reality that limited time with my family meaning: dinner once every 1-2 months and majority of all major holiday gatherings we travel to them for. My mother continues to ask me when she\u2019s drinking and calls saying things \u201care you gonna move closer so I can be with my future grandchildren? Do you hate me?\u201d \n\nI find this incredibly infuriating, but I don\u2019t act on the feelings. But I do feel some major resentment coming up because I honestly don\u2019t feel we live that far and financially, it would be stupid to leave this living circumstance we have now. Plus I enjoy the area and solitude. AITAH if I start to push back and affirm that I am happy when my mom questions my living situation and how she wants it to be more convenient for her? Part of me is ready to explode..",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "I live an 1hr 15 mins away from my side of the family..AITAH?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Fearless_Space4389",
+        "body": "NTAH. Your mom lack boundaries and isn\u2019t adjusting well to you being an adult.",
+        "body_html": "<div class=\"md\"><p>NTAH. Your mom lack boundaries and isn\u2019t adjusting well to you being an adult.</p>\n</div>",
+        "created_utc": "2024-12-09 08:51:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14da1e",
+        "is_submitter": false,
+        "link_id": "t3_1h9xj5b",
+        "parent_id": "t3_1h9xj5b",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/RJack151",
+        "body": "NTA. Tell your mother that she knows how to drive, and you plan on living your life where you are.",
+        "body_html": "<div class=\"md\"><p>NTA. Tell your mother that she knows how to drive, and you plan on living your life where you are.</p>\n</div>",
+        "created_utc": "2024-12-09 09:23:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14ib8g",
+        "is_submitter": false,
+        "link_id": "t3_1h9xj5b",
+        "parent_id": "t3_1h9xj5b",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Excellent_Ad1132",
+        "body": "NTA.  But you could always put a little scare in.  Tell her you are thinking of moving to Seattle or maybe Phoenix for a better paying job.",
+        "body_html": "<div class=\"md\"><p>NTA.  But you could always put a little scare in.  Tell her you are thinking of moving to Seattle or maybe Phoenix for a better paying job.</p>\n</div>",
+        "created_utc": "2024-12-09 10:09:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14ppeq",
+        "is_submitter": false,
+        "link_id": "t3_1h9xj5b",
+        "parent_id": "t3_1h9xj5b",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

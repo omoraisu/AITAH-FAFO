@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha43ju/for_snapping_at_a_bingo_worker_after_he_told_me/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2024-12-09 15:01:27",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1ha43ju/for_snapping_at_a_bingo_worker_after_he_told_me/",
+      "score": 0,
+      "selftext": "[deleted]",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "For snapping at a bingo worker after he told me to calm down?",
+      "upvote_ratio": 0.33
+    },
+    "comments": [
+      {
+        "author": "u/Got_The_Wiggins",
+        "body": "I feel like we need more info - while you were \"overwhelmed\" were you freaking out? Yelling? Acting like a general asshat? In other words, did you need to calm down?\n\nIf you answered yes to any of that, then yes, YTA for snapping at the person who pointed it out.",
+        "body_html": "<div class=\"md\"><p>I feel like we need more info - while you were &quot;overwhelmed&quot; were you freaking out? Yelling? Acting like a general asshat? In other words, did you need to calm down?</p>\n\n<p>If you answered yes to any of that, then yes, YTA for snapping at the person who pointed it out.</p>\n</div>",
+        "created_utc": "2024-12-09 15:37:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15vyvf",
+        "is_submitter": false,
+        "link_id": "t3_1ha43ju",
+        "parent_id": "t3_1ha43ju",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AgreeableReturn2351",
+        "body": "YTA  \nShows how dangerous addictions are.",
+        "body_html": "<div class=\"md\"><p>YTA<br/>\nShows how dangerous addictions are.</p>\n</div>",
+        "created_utc": "2024-12-09 15:44:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15wn95",
+        "is_submitter": false,
+        "link_id": "t3_1ha43ju",
+        "parent_id": "t3_1ha43ju",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
