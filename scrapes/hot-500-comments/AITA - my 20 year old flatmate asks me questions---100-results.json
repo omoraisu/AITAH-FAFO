@@ -1,0 +1,107 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9wbec/aita_my_20_year_old_flatmate_asks_me_questions/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Alternative-Aerie-13",
+      "created_utc": "2024-12-09 07:47:11",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 5,
+      "permalink": "/r/AITAH/comments/1h9wbec/aita_my_20_year_old_flatmate_asks_me_questions/",
+      "score": 2,
+      "selftext": "For context I\u2019m 33; and my flatmate is 20.\nShe asks me questions like; should I have rice or noodles? \nIs it 8th December?\n\nMy answers sound like: Its upto you. \nOr I dunno; check your phone.\n\nAITA?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA - my 20 year old flatmate asks me questions and I give blunt answers ",
+      "upvote_ratio": 0.75
+    },
+    "comments": [
+      {
+        "author": "u/Secret_Sister_Sarah",
+        "body": "NTA - she would get annoying fast.",
+        "body_html": "<div class=\"md\"><p>NTA - she would get annoying fast.</p>\n</div>",
+        "created_utc": "2024-12-09 07:52:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "m143cxk",
+        "is_submitter": false,
+        "link_id": "t3_1h9wbec",
+        "parent_id": "t3_1h9wbec",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Ironyismylife28",
+        "body": "NTA. Tell her you are both her mom, you are not her decision maker, and to stop asking you stupid questions",
+        "body_html": "<div class=\"md\"><p>NTA. Tell her you are both her mom, you are not her decision maker, and to stop asking you stupid questions</p>\n</div>",
+        "created_utc": "2024-12-09 07:54:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m143rdx",
+        "is_submitter": false,
+        "link_id": "t3_1h9wbec",
+        "parent_id": "t3_1h9wbec",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Turmeric_Ping",
+        "body": "~~YTA.~~ These are important questions and you friend has a right to expect you discuss them seriously. Diet matters, and what form of starch she cooks is surely worth an hour or two of your time to discuss properly. \n\nAs for the date: does she mean Gregorian or Julian calendar? You might at least check before fobbing her off like that.\n\nJK, obviously NTA",
+        "body_html": "<div class=\"md\"><p><del>YTA.</del> These are important questions and you friend has a right to expect you discuss them seriously. Diet matters, and what form of starch she cooks is surely worth an hour or two of your time to discuss properly. </p>\n\n<p>As for the date: does she mean Gregorian or Julian calendar? You might at least check before fobbing her off like that.</p>\n\n<p>JK, obviously NTA</p>\n</div>",
+        "created_utc": "2024-12-09 07:58:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "m144c2e",
+        "is_submitter": false,
+        "link_id": "t3_1h9wbec",
+        "parent_id": "t3_1h9wbec",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Alternative-Aerie-13",
+            "body": "Hahahah\nMe to the calendar question: I dunno; check your phone \n\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "body_html": "<div class=\"md\"><p>Hahahah\nMe to the calendar question: I dunno; check your phone \n\ud83d\ude02\ud83d\ude02\ud83d\ude02</p>\n</div>",
+            "created_utc": "2024-12-09 08:05:46",
+            "distinguished": null,
+            "edited": false,
+            "id": "m145k4j",
+            "is_submitter": true,
+            "link_id": "t3_1h9wbec",
+            "parent_id": "t1_m144c2e",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Sad_Construction_668",
+        "body": "NAH These are bids for engagement. She\u2019s trying to be friendly.  You are not under obligation to be friendly with a roommate.",
+        "body_html": "<div class=\"md\"><p>NAH These are bids for engagement. She\u2019s trying to be friendly.  You are not under obligation to be friendly with a roommate.</p>\n</div>",
+        "created_utc": "2024-12-09 08:52:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14dbvz",
+        "is_submitter": false,
+        "link_id": "t3_1h9wbec",
+        "parent_id": "t3_1h9wbec",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

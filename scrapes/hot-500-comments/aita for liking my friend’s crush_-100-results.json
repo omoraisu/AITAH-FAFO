@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9wdfx/aita_for_liking_my_friends_crush/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/preposterous-house74",
+      "created_utc": "2024-12-09 07:49:58",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9wdfx/aita_for_liking_my_friends_crush/",
+      "score": 2,
+      "selftext": "I (F16) have had a crush on this guy in my school for the last 2 years but I didn\u2019t tell anyone for a while. One of my closest friends started liking him too last year and she was very open about it, so they starting talking. But she eventually rejected him and I started becoming friends with him, thinking I might have a chance. Turns out, she didn\u2019t actually want to reject him and just got nervous when he asked her out, so now she\u2019s looking to get with him again. But she\u2019s a very pretty girl and has tons of guys on her roster, so she won\u2019t even totally commit to him. Can I still try to get with him or would that be like stealing my friend\u2019s man?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "aita for liking my friend\u2019s crush?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Lost_Needleworker285",
+        "body": "Nta\n\nI would talk to your friend about it tho, because If you actually get with him without even mentioning you like him to her ywbta",
+        "body_html": "<div class=\"md\"><p>Nta</p>\n\n<p>I would talk to your friend about it tho, because If you actually get with him without even mentioning you like him to her ywbta</p>\n</div>",
+        "created_utc": "2024-12-09 07:56:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14426r",
+        "is_submitter": false,
+        "link_id": "t3_1h9wdfx",
+        "parent_id": "t3_1h9wdfx",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Bodysurfer8",
+        "body": "NTA. All\u2019s fair in love and war.",
+        "body_html": "<div class=\"md\"><p>NTA. All\u2019s fair in love and war.</p>\n</div>",
+        "created_utc": "2024-12-09 08:40:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14be0x",
+        "is_submitter": false,
+        "link_id": "t3_1h9wdfx",
+        "parent_id": "t3_1h9wdfx",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
