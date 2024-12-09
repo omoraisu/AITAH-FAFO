@@ -1,0 +1,46 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9skzl/handling_lastminute_changes_in_training_for/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Reasonable_Error1632",
+      "created_utc": "2024-12-09 04:55:11",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 1,
+      "permalink": "/r/AITAH/comments/1h9skzl/handling_lastminute_changes_in_training_for/",
+      "score": 2,
+      "selftext": "Hey Reddit, I need some advice on how to handle a situation that's been a bit frustrating. I'm the Marketing Manager at a restaurant, and I've been in charge of organizing a month-long meeting regarding a training for an upcoming Limited-Time Offer (LTO). I've been coordinating everything, ensuring the training process would be ready, and have been communicating with the team about the schedule, timing, and expectations.\n\nHowever, the Operations Manager made a last-minute change to the training that wasn't communicated to the team. Since no one was informed about it yet, I took it upon myself to suggest a new timing for the training to make sure things kept moving smoothly and to avoid any confusion.\n\nI was told that the Operations Manager will be communicating the updated details later today. While I understand they have the final say, I\u2019m feeling a bit frustrated because the lack of communication has created a bit of a hiccup in the process. I don\u2019t want to step on anyone\u2019s toes, but I also feel responsible for making sure the team is on the same page.\n\nHow would you handle this? Should I wait for the Operations Manager\u2019s communication or take a more proactive approach to ease the confusion? Any tips on managing this kind of situation?\n\nThanks!",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Handling Last-Minute Changes in Training for Upcoming LTO",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Zscalerrguy",
+        "body": "Yeah, that sucks. I would confirm with the OPs Mgr directly versus relying on second hand info. But yes, in general you should wait.",
+        "body_html": "<div class=\"md\"><p>Yeah, that sucks. I would confirm with the OPs Mgr directly versus relying on second hand info. But yes, in general you should wait.</p>\n</div>",
+        "created_utc": "2024-12-09 04:58:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "m138kme",
+        "is_submitter": false,
+        "link_id": "t3_1h9skzl",
+        "parent_id": "t3_1h9skzl",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

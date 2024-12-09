@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9mzyl/was_i_wrong_to_show_the_goingaway_video_early/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Traditional-Rock-998",
+      "created_utc": "2024-12-09 00:49:48",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9mzyl/was_i_wrong_to_show_the_goingaway_video_early/",
+      "score": 1,
+      "selftext": "AITA?   One of our managers recently left to move back to her hometown. A coworker I was friends with asked me to create a going-away video for her. I initially declined because I work full-time and attend college full-time, but after some persistent begging, I reluctantly agreed. I tend to be a people-pleaser, so I gave in despite my busy schedule.  \n  \nI worked hard on the video, but my coworker kept sending me more pictures to include, even late into the night before the party. I stayed up until 11 p.m. finishing it, even though I had to wake up at 4 a.m. the next morning. The next day, I was excited about the video and, impulsively, (ADHD) showed it to the manager ahead of the planned time. My coworker and I had agreed to play it on the TV during lunch, but in my excitement, I broke our plan and showed it early.  \n  \nWhen my coworker found out, she was furious. She accused me of being untrustworthy, called me an attention-seeker, and claimed I \"stole the moment\" from everyone else. She said I made it all about myself. In my opinion, this reaction was unfair because she often shares everything she does\u2014charity work, events, etc.\u2014on social media, and I suspect she wanted to post the manager's reaction for herself.  \n  \nI sincerely apologized, but she dismissed it completely and has refused to acknowledge me since (Been over a month, won't speak to me in office etc.. ) I\u2019m in my early 30s, and she\u2019s in her mid-40s, so I find her response overly dramatic and unnecessary. I admit I made a mistake by showing the video early, and I do regret it. However, I don\u2019t think her anger is justified to this extent. If I hadn\u2019t made the video at all or failed to deliver it on time, I could understand her frustration. But I put in significant effort despite my tight schedule, and this entire situation has left me feeling hurt.  \n  \n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Was I wrong to show the going-away video early despite all the effort I put into it?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Great_Beginning_2611",
+        "body": "YTA. This was supposed to be a surprise and you ruined it. It's not the end of the world and maybe she overreacted a little, but I can see how it would be extremely annoying. \n\n\nAlso, you can't use ADHD as an excuse. Maybe you had the impulse to show it, but at the same time you're in your 30's and you have control over your actions.",
+        "body_html": "<div class=\"md\"><p>YTA. This was supposed to be a surprise and you ruined it. It&#39;s not the end of the world and maybe she overreacted a little, but I can see how it would be extremely annoying. </p>\n\n<p>Also, you can&#39;t use ADHD as an excuse. Maybe you had the impulse to show it, but at the same time you&#39;re in your 30&#39;s and you have control over your actions.</p>\n</div>",
+        "created_utc": "2024-12-09 01:03:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "m11z7lc",
+        "is_submitter": false,
+        "link_id": "t3_1h9mzyl",
+        "parent_id": "t3_1h9mzyl",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Traditional-Agent420",
+        "body": "You put in a ton of work. But your colleague also suggested it, and put in work too - finding additional content. \n\nThe project was intended for a group showing. Others would react, and manager would see their reactions. That shared experience would be a gift to the manager. \n\nYou put in time you couldn\u2019t really spare. You sacrificed and colleague did not. But you did make this a solo project. \n\nThe comment about colleague intending to post this on social media hints that you didn\u2019t just ADHD this over-eager mistake- you knowlingly did what you felt was right (more ASD-like).  So overall YTA, but ESH (colleague) too.",
+        "body_html": "<div class=\"md\"><p>You put in a ton of work. But your colleague also suggested it, and put in work too - finding additional content. </p>\n\n<p>The project was intended for a group showing. Others would react, and manager would see their reactions. That shared experience would be a gift to the manager. </p>\n\n<p>You put in time you couldn\u2019t really spare. You sacrificed and colleague did not. But you did make this a solo project. </p>\n\n<p>The comment about colleague intending to post this on social media hints that you didn\u2019t just ADHD this over-eager mistake- you knowlingly did what you felt was right (more ASD-like).  So overall YTA, but ESH (colleague) too.</p>\n</div>",
+        "created_utc": "2024-12-09 01:09:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "m120eph",
+        "is_submitter": false,
+        "link_id": "t3_1h9mzyl",
+        "parent_id": "t3_1h9mzyl",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

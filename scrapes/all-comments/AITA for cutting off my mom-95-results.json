@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 95,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1gy7hv3/aita_for_cutting_off_my_mom/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Relative-Mix-6666",
+      "created_utc": "2024-11-24 03:21:05",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1gy7hv3/aita_for_cutting_off_my_mom/",
+      "score": 19,
+      "selftext": "I come from a small family. While my extended family is large, there are only a few people I grew up with and truly connected to.\n\nI\u2019m my mom\u2019s only child, and my relationship with my dad is limited to occasional birthday calls. My grandmother, however, is my world. She\u2019s been battling cancer, and her health has been declining over the past year. I tend to worry a lot, so I make a point to check on her daily, especially on days when I can\u2019t visit her.\n\nThursday was her chemo day, and I couldn\u2019t reach her to see how she was feeling. Concerned, I called my mom to see if she had spoken to her, but she hadn\u2019t. I told my mom I would let her know if I found out anything. When I finally got an update, I called my mom back to share it with her. Later, overwhelmed by the weight of everything, I called again, hoping to talk and find some support. Before I could even begin, my mom told me to stop calling her so much.\n\nI hung up immediately, hurt by her reaction. She tried calling me back twice, but I\u2019ve since blocked her number. My mom lives out of state, and aside from her husband, I\u2019m the only one here caring for my grandmother.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for cutting off my mom",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/idk_wtf_man",
+        "body": "NTAH. I get that it's an emotional time for the both of you, but how she reacted was just rude. It's also likely that she's just overwhelmed as well, but as far as how you acted, you're not the a-hole. Also, thoughts and prayers to your grandma, cancer is a horrible thing for the person going through it and the ones around them. But this too shall pass.",
+        "body_html": "<div class=\"md\"><p>NTAH. I get that it&#39;s an emotional time for the both of you, but how she reacted was just rude. It&#39;s also likely that she&#39;s just overwhelmed as well, but as far as how you acted, you&#39;re not the a-hole. Also, thoughts and prayers to your grandma, cancer is a horrible thing for the person going through it and the ones around them. But this too shall pass.</p>\n</div>",
+        "created_utc": "2024-11-24 03:27:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymghs0",
+        "is_submitter": false,
+        "link_id": "t3_1gy7hv3",
+        "parent_id": "t3_1gy7hv3",
+        "score": 10,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Known-Difference-438",
+        "body": "You're not the asshole for wanting support, and it sounds like you\u2019re just trying to handle a really tough situation. It\u2019s okay to set boundaries when someone isn\u2019t being supportive.",
+        "body_html": "<div class=\"md\"><p>You&#39;re not the asshole for wanting support, and it sounds like you\u2019re just trying to handle a really tough situation. It\u2019s okay to set boundaries when someone isn\u2019t being supportive.</p>\n</div>",
+        "created_utc": "2024-11-24 03:42:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymje1g",
+        "is_submitter": false,
+        "link_id": "t3_1gy7hv3",
+        "parent_id": "t3_1gy7hv3",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Outside_Buy_7007",
+        "body": "NTA you were just looking for support and she wasn\u2019t there for you",
+        "body_html": "<div class=\"md\"><p>NTA you were just looking for support and she wasn\u2019t there for you</p>\n</div>",
+        "created_utc": "2024-11-24 04:20:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymq6x6",
+        "is_submitter": false,
+        "link_id": "t3_1gy7hv3",
+        "parent_id": "t3_1gy7hv3",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

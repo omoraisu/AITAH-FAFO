@@ -1,0 +1,93 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9x690/aita_for_not_wanting_to_be_friends_with_my/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/craziestcatlady123",
+      "created_utc": "2024-12-09 08:29:02",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1h9x690/aita_for_not_wanting_to_be_friends_with_my/",
+      "score": 1,
+      "selftext": "So long story I've been friends with my friend \"Sally\" since we were about 8. we are both in our late 30s now. When we were kids and teenagers she was not very nice at times. Emotionally manipulative, made friends with people I was originally friends with and left me out that sort of things.\n\nThings got better when we were adults and she has been very supportive of me at times and has given me a lot of support. She moved back to the area where we both grew up and we started hanging out alot. We would usually catch up once or twice a week and we have a group chat with another friend of ours that we would all chat in most days. \n\nA few months ago she got a job which keeps her very busy and makes her tired so I haven't seen her in about 2 months. I understand she is tired but she has also stopped chatting in our group. She will see the messages but not say anything. This always makes me feel like I might have said something wrong. When we invite her to do stuff she doesn't reply or when she does she comes up with a lame excuse not to come. When she does talk it's pretty much always about herself. \n\nI invited her to a party and I had to ask her 3 times if she was coming before she answered. The day of the party she said she was sick and would see how she felt. I asked her if she was feeling better and she never replied so I never actually got a reply as to whether she was coming or not. When I do try to make conversation with her or reach out she talks about herself or doesn't reply after awhile.\n\nMy question is am I being dramatic and over thinking or is she a bad friend and I should let the friendship go? What would you do?\n\nThanks for reading",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for not wanting to be friends with my supposed BFF?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/AbbyM1968",
+        "body": "From what you've written, I'd say \"Sally\" is a \"wheelbarrow,\" she'll go as far as you push her. Is it *always* you reaching out? Is it *always* you making plans & inviting? Are you *always* deciding what/where/when? \n\nIf the answer is, \"Yes.\" Then I would just stop calling/texting *first,* and see where the friendship goes from there. Maybe she is just settling into the job, and the friendship can pick up again later.\n\nSome friends are for a season, some friends are for a reason, others are for life. If the season of friendship is over, stop hanging onto it. If the friendship is just on a break, let it be on the break, and let *her* call/text when she's ready.  \n\nGood luck, either way.",
+        "body_html": "<div class=\"md\"><p>From what you&#39;ve written, I&#39;d say &quot;Sally&quot; is a &quot;wheelbarrow,&quot; she&#39;ll go as far as you push her. Is it <em>always</em> you reaching out? Is it <em>always</em> you making plans &amp; inviting? Are you <em>always</em> deciding what/where/when? </p>\n\n<p>If the answer is, &quot;Yes.&quot; Then I would just stop calling/texting <em>first,</em> and see where the friendship goes from there. Maybe she is just settling into the job, and the friendship can pick up again later.</p>\n\n<p>Some friends are for a season, some friends are for a reason, others are for life. If the season of friendship is over, stop hanging onto it. If the friendship is just on a break, let it be on the break, and let <em>her</em> call/text when she&#39;s ready.  </p>\n\n<p>Good luck, either way.</p>\n</div>",
+        "created_utc": "2024-12-09 08:42:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14brze",
+        "is_submitter": false,
+        "link_id": "t3_1h9x690",
+        "parent_id": "t3_1h9x690",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/craziestcatlady123",
+            "body": "That's very good advice I will definitely try that. Thank you",
+            "body_html": "<div class=\"md\"><p>That&#39;s very good advice I will definitely try that. Thank you</p>\n</div>",
+            "created_utc": "2024-12-09 08:58:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14ecmv",
+            "is_submitter": true,
+            "link_id": "t3_1h9x690",
+            "parent_id": "t1_m14brze",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Effective-Plan-9031",
+        "body": "Is she depressed?",
+        "body_html": "<div class=\"md\"><p>Is she depressed?</p>\n</div>",
+        "created_utc": "2024-12-09 08:47:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14cl5u",
+        "is_submitter": false,
+        "link_id": "t3_1h9x690",
+        "parent_id": "t3_1h9x690",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/craziestcatlady123",
+            "body": "I don't think so. I think she's very obsessed with her new job",
+            "body_html": "<div class=\"md\"><p>I don&#39;t think so. I think she&#39;s very obsessed with her new job</p>\n</div>",
+            "created_utc": "2024-12-09 08:57:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14e7sx",
+            "is_submitter": true,
+            "link_id": "t3_1h9x690",
+            "parent_id": "t1_m14cl5u",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

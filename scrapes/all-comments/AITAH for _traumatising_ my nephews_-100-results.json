@@ -1,0 +1,77 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9pux1/aitah_for_traumatising_my_nephews/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/georgetgwtbn",
+      "created_utc": "2024-12-09 02:55:07",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 5,
+      "permalink": "/r/AITAH/comments/1h9pux1/aitah_for_traumatising_my_nephews/",
+      "score": 3,
+      "selftext": "Just read a post on another sub that reminds me of the day I went out with my sister and her children (nearly 20 years ago.) Just thought I'd share here for your amusement.\n\nHer boys were about 5&6 and we went to the zoo. We took a packed lunch to have at the picnic area. The boys were picky eaters and it was hard enough to ensure they actually ate their food, but there were adoring peacocks that kept begging for food, so they kept feeding their sandwiches to the birds. \n\nThere were signs up everywhere saying \"do not feed the animals\" (on the bear and wolf enclosures etc) So we kept pointing these out and saying \"it's against the rules\" & \"you could make them sick\" etc etc. But nothing worked and they kept dropping food instead of eating it.\n\nI finally had enough of all the mollycoddling and said \"If you feed the animals and they die, it's your fault!\"\n\nBoth boys looked shocked and carefully started eating their food, making sure not to drop any crumbs. \n\nMy sister, brother in law and (then) boyfriend looked horrified and whispered \"You can't say something like that!\" I simply replied \"It worked, didn't it?\"",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for \"traumatising\" my nephews?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/firm-tofu-cube",
+        "body": "NTA. That\u2019s not traumatizing. It\u2019s firm and hard to hear for children, but ultimately not a big deal at all.",
+        "body_html": "<div class=\"md\"><p>NTA. That\u2019s not traumatizing. It\u2019s firm and hard to hear for children, but ultimately not a big deal at all.</p>\n</div>",
+        "created_utc": "2024-12-09 03:06:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12n16d",
+        "is_submitter": false,
+        "link_id": "t3_1h9pux1",
+        "parent_id": "t3_1h9pux1",
+        "score": 4,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Educational-War-9398",
+        "body": "Kids need to know there are (sometimes very serious) consequences and there are rules for a reason. Feeding animals is reckless and ignorant. Good for you and I hope those boys grew into decent, animal loving adults. \ud83d\udc4d",
+        "body_html": "<div class=\"md\"><p>Kids need to know there are (sometimes very serious) consequences and there are rules for a reason. Feeding animals is reckless and ignorant. Good for you and I hope those boys grew into decent, animal loving adults. \ud83d\udc4d</p>\n</div>",
+        "created_utc": "2024-12-09 04:49:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "m136pqn",
+        "is_submitter": false,
+        "link_id": "t3_1h9pux1",
+        "parent_id": "t3_1h9pux1",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/georgetgwtbn",
+            "body": "They're great boys (young men now!) One even trained as a zookeeper and now volunteers at an animal sanctuary. \ud83d\udc95",
+            "body_html": "<div class=\"md\"><p>They&#39;re great boys (young men now!) One even trained as a zookeeper and now volunteers at an animal sanctuary. \ud83d\udc95</p>\n</div>",
+            "created_utc": "2024-12-09 05:17:23",
+            "distinguished": null,
+            "edited": false,
+            "id": "m13c2aq",
+            "is_submitter": true,
+            "link_id": "t3_1h9pux1",
+            "parent_id": "t1_m136pqn",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

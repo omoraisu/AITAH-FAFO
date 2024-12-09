@@ -1,0 +1,108 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9ra9a/aitah_for_ghosting_a_friend/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/AffectionateHand2206",
+      "created_utc": "2024-12-09 03:58:06",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 6,
+      "permalink": "/r/AITAH/comments/1h9ra9a/aitah_for_ghosting_a_friend/",
+      "score": 2,
+      "selftext": "A few weeks ago I wrote to a friend I hadn't heard of for awhile. It was a regular \"How are you? How's the family? I hope everything is fine at work.\" type message. \nIt didn't take my friend long to reply and they sent me a really long message in reply, followed by a 25 minute audio message that was mostly about their work. It might be important to know that they've been working in the same job for years and nothing out of the norm had occured. So, the message was basically just an in-depth job description ending with \"Well, nothing new has happened and actually there really isn't much to say about work.\"\n\nI was overwhelmed and didn't know how to respond to a 25 minute audio message about nothing happening at work. So, I postponed answering and suddenly 5 weeks have passed without me responding. My friend is upset because it's rude not to reply to a message and my partner thinks that's an ah thing to do even though my partner also believes the audio message to be insane. \n\nAm I the asshole?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for ghosting a friend?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Mediocre_Most8525",
+        "body": "it happens, it's a bit rude to not reply but damn a 25 min long message idk man NTA",
+        "body_html": "<div class=\"md\"><p>it happens, it&#39;s a bit rude to not reply but damn a 25 min long message idk man NTA</p>\n</div>",
+        "created_utc": "2024-12-09 04:04:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12y9ya",
+        "is_submitter": false,
+        "link_id": "t3_1h9ra9a",
+        "parent_id": "t3_1h9ra9a",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AffectionateHand2206",
+            "body": "Not just 25 min, but 25 min about nothing happening at work.",
+            "body_html": "<div class=\"md\"><p>Not just 25 min, but 25 min about nothing happening at work.</p>\n</div>",
+            "created_utc": "2024-12-09 04:08:23",
+            "distinguished": null,
+            "edited": false,
+            "id": "m12yx4y",
+            "is_submitter": true,
+            "link_id": "t3_1h9ra9a",
+            "parent_id": "t1_m12y9ya",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Mediocre_Most8525",
+                "body": "LMAO i can't it's so funny to me, you're def not the AH imo, but i feel like your friend needs someone to talk to lol",
+                "body_html": "<div class=\"md\"><p>LMAO i can&#39;t it&#39;s so funny to me, you&#39;re def not the AH imo, but i feel like your friend needs someone to talk to lol</p>\n</div>",
+                "created_utc": "2024-12-09 04:12:52",
+                "distinguished": null,
+                "edited": false,
+                "id": "m12zs3f",
+                "is_submitter": false,
+                "link_id": "t3_1h9ra9a",
+                "parent_id": "t1_m12yx4y",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/MrsSecret666",
+        "body": "Tell your friend the truth that you got overwhelmed and didn't know what to answer. \n\nA 25 minute audio is in my eyes a podcast and not a audio.. xD",
+        "body_html": "<div class=\"md\"><p>Tell your friend the truth that you got overwhelmed and didn&#39;t know what to answer. </p>\n\n<p>A 25 minute audio is in my eyes a podcast and not a audio.. xD</p>\n</div>",
+        "created_utc": "2024-12-09 04:16:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "m130j05",
+        "is_submitter": false,
+        "link_id": "t3_1h9ra9a",
+        "parent_id": "t3_1h9ra9a",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/GreenEyedPhotographr",
+        "body": "You're NTA.\n\nYour friend went a bit rogue with their reply. Then they got upset because they overloaded you with nonsense? Sigh. Did they ever ask about you and your life? Probably not. Just tell them you were very busy and couldn't find a moment to respond. Leave it at that and see if they ask for details. I'm guessing they won't.",
+        "body_html": "<div class=\"md\"><p>You&#39;re NTA.</p>\n\n<p>Your friend went a bit rogue with their reply. Then they got upset because they overloaded you with nonsense? Sigh. Did they ever ask about you and your life? Probably not. Just tell them you were very busy and couldn&#39;t find a moment to respond. Leave it at that and see if they ask for details. I&#39;m guessing they won&#39;t.</p>\n</div>",
+        "created_utc": "2024-12-09 04:33:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "m133ozw",
+        "is_submitter": false,
+        "link_id": "t3_1h9ra9a",
+        "parent_id": "t3_1h9ra9a",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

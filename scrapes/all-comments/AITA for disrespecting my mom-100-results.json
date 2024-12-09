@@ -1,0 +1,62 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9xzw7/aita_for_disrespecting_my_mom/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Secret_Guide_7583",
+      "created_utc": "2024-12-09 09:10:46",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9xzw7/aita_for_disrespecting_my_mom/",
+      "score": 2,
+      "selftext": "So I, 16f got into a fight with my mother over laundry. My dad normally puts it in the dryer, then I fold it. Today he told that he put it in the dryer, and it was ready for me to fold now, Sunday evening. I told him if he could put it in earlier because I didn't want to fold it so late. So my mom started freaking out that I always fold it on Sunday evening anyway, so what's the point. I told her that I looked for yesterday, and it wasn't in the dryer. She told me my general trend was laziness, and she started screaming as usual. I stayed calm, and told her, I would only have myself to blame if I actually waited until Sunday evening. She again screamed about how it wasn't about blame, and said I was blaming her and my dad. I simply asked her \"am I blaming you?\" Calmly, then she said I was, I told her I wasn't, and I they already told me why he put the laundry later, it was because my sister puts her clothes late. I simply asked my sister if she could do it earlier, she was calm and apologized to me, but my mom went ballistic. She said I was so out of line for talking to her that way, and threatened to hit me again (for those of you who don't know, she used to do that) and she screamed about not caring if she went to jail for it. She also said I'm too American, and we need to go back to our country where hitting your children is legal. She said she would never have the guts to talk to her mom like that, and she proceeded to say my \"ego is too big, despite the fact I've amounted to nothing. And I'm stupid for believing I'm smart.\" It's nice to be told you're worthless by your parents, but anyway, was I THAT out of line? Am I really that much of an AH in this situation?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for disrespecting my mom",
+      "upvote_ratio": 0.75
+    },
+    "comments": [
+      {
+        "author": "u/beahero2002-",
+        "body": "I am mad at myself for reading such nonsense",
+        "body_html": "<div class=\"md\"><p>I am mad at myself for reading such nonsense</p>\n</div>",
+        "created_utc": "2024-12-09 09:15:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14h19v",
+        "is_submitter": false,
+        "link_id": "t3_1h9xzw7",
+        "parent_id": "t3_1h9xzw7",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Secret_Guide_7583",
+            "body": "Sorry, but this is unfortunately true, and I\u2019m not exactly sure just how disrespectful my comment was",
+            "body_html": "<div class=\"md\"><p>Sorry, but this is unfortunately true, and I\u2019m not exactly sure just how disrespectful my comment was</p>\n</div>",
+            "created_utc": "2024-12-09 09:21:52",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14i3ij",
+            "is_submitter": true,
+            "link_id": "t3_1h9xzw7",
+            "parent_id": "t1_m14h19v",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

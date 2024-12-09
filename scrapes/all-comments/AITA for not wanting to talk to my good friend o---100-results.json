@@ -1,0 +1,92 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9xlsr/aita_for_not_wanting_to_talk_to_my_good_friend/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/em_L__",
+      "created_utc": "2024-12-09 08:50:46",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1h9xlsr/aita_for_not_wanting_to_talk_to_my_good_friend/",
+      "score": 1,
+      "selftext": "Me and my really good friend have known each other for over a year now. We see each other everyday at school and talk the whole time. Recently I have been more tired due to mental health and not really up to talking to her because she loves to trauma dump me. I have told her all this face to face and on text as well. I have told her that I don\u2019t want to talk much during free time. Now she keeps giving me silent treatment and gets mad about everything. And when she does text me she says fake things to get my attention like \u201cI\u2019m in the hospital\u201d or something else, often really serious stuff and I get worried easily. I have told her to stop that but no use. \n\nAlso for context I have always been a antisocial and introverted person. I like to be alone on my own time. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for not wanting to talk to my good friend outside school?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/GimmeUrNachos",
+        "body": "She sounds exhausting and needy of attention, which really isn't that uncommon among that age group.  It's okay to want your free time and it's also fine to communicate that to others.  It might be time to turn your phone off during your personal time.",
+        "body_html": "<div class=\"md\"><p>She sounds exhausting and needy of attention, which really isn&#39;t that uncommon among that age group.  It&#39;s okay to want your free time and it&#39;s also fine to communicate that to others.  It might be time to turn your phone off during your personal time.</p>\n</div>",
+        "created_utc": "2024-12-09 09:11:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14ghgg",
+        "is_submitter": false,
+        "link_id": "t3_1h9xlsr",
+        "parent_id": "t3_1h9xlsr",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SnowmanLicker",
+        "body": "well it sounds like your life would be a lot more stress free without this \u201cfriend\u201d tbh \n\nwhy do you want to remain their friend if theyre so taxing?",
+        "body_html": "<div class=\"md\"><p>well it sounds like your life would be a lot more stress free without this \u201cfriend\u201d tbh </p>\n\n<p>why do you want to remain their friend if theyre so taxing?</p>\n</div>",
+        "created_utc": "2024-12-09 08:53:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14djox",
+        "is_submitter": false,
+        "link_id": "t3_1h9xlsr",
+        "parent_id": "t3_1h9xlsr",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Bamboolizing_Giraffe",
+            "body": "Maybe because he has a extent history with her or has got good memories and moments with her despite it being so taxing and annoying lately, or she was a great friend outside of this situation he got right now. Maybe he doesn't have many friends because he is antisocial and would prefer to have some sort of company there rather than being completely alone after cuttung her off. Though, wouldn't be bad distanciating yourself from such behaviours",
+            "body_html": "<div class=\"md\"><p>Maybe because he has a extent history with her or has got good memories and moments with her despite it being so taxing and annoying lately, or she was a great friend outside of this situation he got right now. Maybe he doesn&#39;t have many friends because he is antisocial and would prefer to have some sort of company there rather than being completely alone after cuttung her off. Though, wouldn&#39;t be bad distanciating yourself from such behaviours</p>\n</div>",
+            "created_utc": "2024-12-09 10:39:44",
+            "distinguished": null,
+            "edited": "2024-12-09 10:46:13",
+            "id": "m14ufa2",
+            "is_submitter": false,
+            "link_id": "t3_1h9xlsr",
+            "parent_id": "t1_m14djox",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Bamboolizing_Giraffe",
+        "body": "NTA\n\nHonestly, it juat seems to me giving a silence treatment for such things toxic. You shoukd add clear boundaries, that if you WANT your OWN time outside school then shall it be. It's not good to be stressing over fake messages she sends in your current mental health.\n\nTake a break man, it's not worth to be worrying over her, she seems like just wants attention from her friends.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>Honestly, it juat seems to me giving a silence treatment for such things toxic. You shoukd add clear boundaries, that if you WANT your OWN time outside school then shall it be. It&#39;s not good to be stressing over fake messages she sends in your current mental health.</p>\n\n<p>Take a break man, it&#39;s not worth to be worrying over her, she seems like just wants attention from her friends.</p>\n</div>",
+        "created_utc": "2024-12-09 10:44:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14v4a7",
+        "is_submitter": false,
+        "link_id": "t3_1h9xlsr",
+        "parent_id": "t3_1h9xlsr",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

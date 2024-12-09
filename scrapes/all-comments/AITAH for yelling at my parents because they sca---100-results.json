@@ -1,0 +1,109 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9zjgx/aitah_for_yelling_at_my_parents_because_they/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/solidrocksandles420",
+      "created_utc": "2024-12-09 10:31:40",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 5,
+      "permalink": "/r/AITAH/comments/1h9zjgx/aitah_for_yelling_at_my_parents_because_they/",
+      "score": 0,
+      "selftext": "The only reason I think I even might slightly be in the wrong is because of the way I went about it. So they were fighting late at night as per usual and normally I ignore it because I don\u2019t care, but this time, this fucking time my cat was stuck in there room and he was meowing too be let out and only I heard it apparently. So I did what is leading me to posting this, I swung  open there door called them pathetic and did something that I look back on and cringe, I spit on the floor to try and signal disrespect. So words were exchanged and I ended up feeling like the villain at the end of the day, but hey atleast I saved my cat, I may have destroyed my relationship with my parents but my cat loves me bruh \ud83d\udc80.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for yelling at my parents because they scared my cat while they were fighting.",
+      "upvote_ratio": 0.5
+    },
+    "comments": [
+      {
+        "author": "u/Just_somebody_onhere",
+        "body": "You were indeed the villain.\n\nYou spat on the floor. Just\u2026 what the fuck is the matter with you?",
+        "body_html": "<div class=\"md\"><p>You were indeed the villain.</p>\n\n<p>You spat on the floor. Just\u2026 what the fuck is the matter with you?</p>\n</div>",
+        "created_utc": "2024-12-09 10:46:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14veme",
+        "is_submitter": false,
+        "link_id": "t3_1h9zjgx",
+        "parent_id": "t3_1h9zjgx",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/solidrocksandles420",
+            "body": "Idk I was mad bruh, I know this might sound like a cop out but they fucking scared my cat and to me that was a line you can\u2019t cross.",
+            "body_html": "<div class=\"md\"><p>Idk I was mad bruh, I know this might sound like a cop out but they fucking scared my cat and to me that was a line you can\u2019t cross.</p>\n</div>",
+            "created_utc": "2024-12-09 10:48:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14vqr5",
+            "is_submitter": true,
+            "link_id": "t3_1h9zjgx",
+            "parent_id": "t1_m14veme",
+            "score": -1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/NoDistribution15",
+                "body": "It\u2019s a cat it\u2019ll be fine they weren\u2019t hurting it they were having an arguement amongst each other didn\u2019t really have a place to even say anything and spitting on the floor makes it 10x worse that\u2019s just disgusting and beyond disrespectful",
+                "body_html": "<div class=\"md\"><p>It\u2019s a cat it\u2019ll be fine they weren\u2019t hurting it they were having an arguement amongst each other didn\u2019t really have a place to even say anything and spitting on the floor makes it 10x worse that\u2019s just disgusting and beyond disrespectful</p>\n</div>",
+                "created_utc": "2024-12-09 14:17:22",
+                "distinguished": null,
+                "edited": false,
+                "id": "m15o1h6",
+                "is_submitter": false,
+                "link_id": "t3_1h9zjgx",
+                "parent_id": "t1_m14vqr5",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/CTMom79",
+        "body": "YTA, spitting is disgusting.",
+        "body_html": "<div class=\"md\"><p>YTA, spitting is disgusting.</p>\n</div>",
+        "created_utc": "2024-12-09 10:51:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14w90b",
+        "is_submitter": false,
+        "link_id": "t3_1h9zjgx",
+        "parent_id": "t3_1h9zjgx",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/solidrocksandles420",
+            "body": "Scaring a little kitty to the point that he was shaking just because you wanna fight with your spouse all night with no regard to the anyone in the house or neighbours is also disgusting.",
+            "body_html": "<div class=\"md\"><p>Scaring a little kitty to the point that he was shaking just because you wanna fight with your spouse all night with no regard to the anyone in the house or neighbours is also disgusting.</p>\n</div>",
+            "created_utc": "2024-12-09 10:53:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14wk7u",
+            "is_submitter": true,
+            "link_id": "t3_1h9zjgx",
+            "parent_id": "t1_m14w90b",
+            "score": -1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

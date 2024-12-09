@@ -1,0 +1,62 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9njhw/aita_for_leaving_my_living_situation_without/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Designer-Vacation-41",
+      "created_utc": "2024-12-09 01:13:51",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9njhw/aita_for_leaving_my_living_situation_without/",
+      "score": 2,
+      "selftext": "I\u2019m a 26 M living in a really frustrating and unfulfilling situation, and I need some outside perspective. For the past 2  years, I\u2019ve been living with 3 brothers but Am going to be focusing on the 2 older brothers, aged 28 and 34, who are my housemates. We\u2019re supposed to be splitting rent. The problem is, they don\u2019t work\u2014by choice. I (and the other brother 27) are consistently working and contributing financially, while the others rely on our income to keep us afloat.\nThe current arrangement is that I pay a significant portion of the rent and bills, When I come home, the apartment is never cleaned.. even when I go to bed, I can\u2019t because they shout at their video games ALL NIGHT.  Meanwhile, I\u2019m working hard and sacrificing a lot to stay afloat, to the point where I don\u2019t eat because I essentially can\u2019t afford to at times. To make it worse, I haven\u2019t had my own room in years, which has taken a toll on my mental health.\nRecently, I\u2019ve started saving up to move out and finally get some independence and privacy. To add to it, one instance I was not asked to but TOLD to pay the internet bill, which boiled my blood. I\u2019ve reached a breaking point where I\u2019m thinking of leaving without notice. I know that if I leave, they won\u2019t be able to make rent, which would likely result in an eviction. Part of me feels guilty about this because I know it\u2019ll cause chaos for them. But at the same time, they\u2019re adults who have had years to figure things out and have consistently chosen not to work.\nI feel like I\u2019ve been carrying this household on my back, and I\u2019m exhausted. I\u2019ve started to resent them for their lack of effort and for taking my help for granted. I want to prioritize my own well-being, but I\u2019m worried I\u2019ll look like the bad guy if I just leave without warning.\n\nSo, AITA if I move out without notice, knowing it\u2019ll likely lead to an eviction?\n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for Leaving my living situation without notice?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/teresajs",
+        "body": "NTA\n\n\nYou aren't responsible for them.\n\n\nMake sure, though, that your name is legally removed from the lease and cancel any utilities on your name.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>You aren&#39;t responsible for them.</p>\n\n<p>Make sure, though, that your name is legally removed from the lease and cancel any utilities on your name.</p>\n</div>",
+        "created_utc": "2024-12-09 01:31:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "m124fem",
+        "is_submitter": false,
+        "link_id": "t3_1h9njhw",
+        "parent_id": "t3_1h9njhw",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Designer-Vacation-41",
+            "body": "Thank you! Since this post I just received a noise complaint.. of course \ud83d\ude05",
+            "body_html": "<div class=\"md\"><p>Thank you! Since this post I just received a noise complaint.. of course \ud83d\ude05</p>\n</div>",
+            "created_utc": "2024-12-09 07:22:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "m13yal6",
+            "is_submitter": true,
+            "link_id": "t3_1h9njhw",
+            "parent_id": "t1_m124fem",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

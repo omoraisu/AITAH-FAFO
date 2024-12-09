@@ -1,0 +1,62 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9usgg/aita_because_i_ruined_my_exs_social_life/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/AccomplishedLab3466",
+      "created_utc": "2024-12-09 06:34:27",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9usgg/aita_because_i_ruined_my_exs_social_life/",
+      "score": 7,
+      "selftext": "Sorry for bad english not my native language\n\ni already know i am but i just want to tell someone what happened  \n\nabout 3 weeks ago my girlfriend broke up with me via text on a Thursday morning, we hadn't been together that long (1 month) but I was still a little hurt. not so much because she broke up but more how she broke up.  she wrote on a red snap \"I think we should break up.\" I didn't argue against it but I wanted to talk to her.  at first she didn't want to but after a while she actually called me.  I immediately noticed that she was sitting with a lot of other people around her, but I asked if she was alone and she said yes.  I didn't care so I started talking but it was clear that she wasn't listening and after 1.5 minutes she just hung up without saying anything. I was of course sad at first but after a little while I felt better than before so I stopped thinking about her.\n\nafter about 2 weeks I met a girl who is in her class and started talking to her. after a while we started talking about my ex and she told me that my ex had talked shit about me. I was a little annoyed by this and said that it was so childish to continue like that and that it would be better to just move on. then the girl I talked to said that my ex had been very childish and difficult in their PE class. So I said without really thinking that she had talked to me about how her friends were so annoyingly childish. but she was the same as her friends. \nafter this I didn't think about this conversation again until the next weekend when\nI met the girl in her class again. She told me that she had said what my ex had said to her friends and they had all started ignoring her. and after only a couple of days everyone knew what she had said and that no one talked to her anymore and that she was completely alone. that she cried in class because no one wanted to talk to her anymore. She is not very social or popular so she has no one else to be with anymore  \n\nI have to say that I don't like my ex and I don't want to talk to her anymore, but I don't want her to get hurt like that so when she told me this, I felt so guilty because I know that if I had just not said anything, none of this would have happened and she would be fine \n\n     ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA because I Ruined my ex's social life",
+      "upvote_ratio": 0.83
+    },
+    "comments": [
+      {
+        "author": "u/PetrogradSwe",
+        "body": "NTA\n\nYour ex intentionally talked shit about you.\n\nWhen you found out about that you said one true thing about her, and that was enough to accidentally ruin her reputation.\n\nThis is what she was trying to do to you. Let her suffer the consequences of her actions.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>Your ex intentionally talked shit about you.</p>\n\n<p>When you found out about that you said one true thing about her, and that was enough to accidentally ruin her reputation.</p>\n\n<p>This is what she was trying to do to you. Let her suffer the consequences of her actions.</p>\n</div>",
+        "created_utc": "2024-12-09 07:09:53",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13w7rq",
+        "is_submitter": false,
+        "link_id": "t3_1h9usgg",
+        "parent_id": "t3_1h9usgg",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AccomplishedLab3466",
+            "body": "Holy shit your right, i never thought of what she was trying to do to me",
+            "body_html": "<div class=\"md\"><p>Holy shit your right, i never thought of what she was trying to do to me</p>\n</div>",
+            "created_utc": "2024-12-09 07:25:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "m13ywc9",
+            "is_submitter": true,
+            "link_id": "t3_1h9usgg",
+            "parent_id": "t1_m13w7rq",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9jsqb/wibtah_if_i_didnt_go_to_my_work_do/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Admirable_Box6045",
+      "created_utc": "2024-12-08 22:19:10",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9jsqb/wibtah_if_i_didnt_go_to_my_work_do/",
+      "score": 5,
+      "selftext": "First time posting so apologies for it not being the best.\n\nSo I F21 finished my shift at my job yesterday and straight after it was my manager M45 working,  we'll call him Bill. After my shift, Bill was working and decided to message the work groupchat saying that we had a work do the next day. For a bit more context, our original one was cancelled due to some people not being able to attend it and Bill said that he would inform us about information about the work do. Despite him messaging the group chat yesterday about the work do being today, I only saw the message today due to archiving the groupchat and only checking it once in a while along with the shifts that i'm working.\n\nThe last work do that was planned before it was cancelled was at very unsocial hours when the place where we work is only open till 18:30. (These unsocial hours was from 20:00 till 22:00). Not only have we not been informed whether it will be at the same time but we have also not been informed of where it will be at.\n\nMy question is if I would be the AH if I did not show up to the work do. It is paid for an mandatory but he informed us last minute that it would be today and is yet to tell us where. Any suggestions on what I should do.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "WIBTAH if i didn't go to my work do?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/eat_my_feelings",
+        "body": "No, NTA. They can\u2019t make something mandatory unless they are paying you to attend. If they\u2019re not paying you, it\u2019s not mandatory. If they are paying you, then you should attend so you don\u2019t get written up or fired.",
+        "body_html": "<div class=\"md\"><p>No, NTA. They can\u2019t make something mandatory unless they are paying you to attend. If they\u2019re not paying you, it\u2019s not mandatory. If they are paying you, then you should attend so you don\u2019t get written up or fired.</p>\n</div>",
+        "created_utc": "2024-12-08 23:01:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "m11dbbu",
+        "is_submitter": false,
+        "link_id": "t3_1h9jsqb",
+        "parent_id": "t3_1h9jsqb",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/epeeist42",
+        "body": "NTA but consider whether or not it's to your advantage (workplace politics, networking with workers outside workplace) to go.\n\nJust because something's not mandatory, doesn't necessarily mean it's not a good idea and an intangible benefit to you.\n\nNow, I think it would be reasonable to in group chat say e.g. \"I'm trying to see if I can be free for this work do, but I need to know please where it is, and when it is, and I'm sure others in the group do also.\" Then if you decide not to go when get details, can say e.g. \"I'm sorry, but midnight in North Haverbrook tonight won't be possible for me, have fun everyone and get home safe.\"",
+        "body_html": "<div class=\"md\"><p>NTA but consider whether or not it&#39;s to your advantage (workplace politics, networking with workers outside workplace) to go.</p>\n\n<p>Just because something&#39;s not mandatory, doesn&#39;t necessarily mean it&#39;s not a good idea and an intangible benefit to you.</p>\n\n<p>Now, I think it would be reasonable to in group chat say e.g. &quot;I&#39;m trying to see if I can be free for this work do, but I need to know please where it is, and when it is, and I&#39;m sure others in the group do also.&quot; Then if you decide not to go when get details, can say e.g. &quot;I&#39;m sorry, but midnight in North Haverbrook tonight won&#39;t be possible for me, have fun everyone and get home safe.&quot;</p>\n</div>",
+        "created_utc": "2024-12-09 02:55:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12kqtc",
+        "is_submitter": false,
+        "link_id": "t3_1h9jsqb",
+        "parent_id": "t3_1h9jsqb",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

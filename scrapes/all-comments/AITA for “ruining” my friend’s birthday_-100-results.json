@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9vjdp/aita_for_ruining_my_friends_birthday/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Ok-Tear937",
+      "created_utc": "2024-12-09 07:09:23",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9vjdp/aita_for_ruining_my_friends_birthday/",
+      "score": 1,
+      "selftext": "It\u2019s my friend\u2019s birthday and she wants to go to dinner, which is completely fine. The problem is she told me about it last minute, after I already spent my money on groceries and a concert (which was planned well in advance). I knew her birthday was coming up yes, but she didn\u2019t mention wanting to do anything because it\u2019s the middle of exam season, and the only reason I went to the concert is because I got a break in between exams. I told her it was last minute and I didn\u2019t have money, but she saw the money that my mom sent for a checkup and said that I had, and I knew I just had to ask and I would get more (college student, so my parents send me money). I asked my dad, but he\u2019s already paying for a trip that I have coming up (again, planned well in advance, like 2 months, and it\u2019s my Christmas gift) and they\u2019re sending me stuff from home, which is expensive as well. I have an exam soon, and I\u2019m super stressed and having to spend money that I don\u2019t have, so I\u2019ll have to put off my check-up, and now my friend doesn\u2019t like my attitude because I haven\u2019t started getting ready yet, and I\u2019m ruining her birthday. I really don\u2019t wanna go, but I want her to enjoy her birthday too.\n\nIt\u2019s not like I haven\u2019t told her multiple times that I don\u2019t want to, and under different circumstances I would 100% be down for it. And the restaurant that she picked is super expensive. So AITA?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for \u201cruining\u201d my friend\u2019s birthday?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/dilcuisverycool",
+        "body": "nta, it just comes down to bad planning on her behalf and she can't be mad at you for that. Birthdays should be about being with your friends and so maybe you could meet up with them after the restaurant and still see her on her birthday and that shows you care about her and want to make the effort. But it sounds like she's being selfish and although it's her birthday she needs to think about others too",
+        "body_html": "<div class=\"md\"><p>nta, it just comes down to bad planning on her behalf and she can&#39;t be mad at you for that. Birthdays should be about being with your friends and so maybe you could meet up with them after the restaurant and still see her on her birthday and that shows you care about her and want to make the effort. But it sounds like she&#39;s being selfish and although it&#39;s her birthday she needs to think about others too</p>\n</div>",
+        "created_utc": "2024-12-09 07:14:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13wxzm",
+        "is_submitter": false,
+        "link_id": "t3_1h9vjdp",
+        "parent_id": "t3_1h9vjdp",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/beek_r",
+        "body": "NTA  \"I can't do this right now\" is valid reason not to do something.  You don't owe your friend a reason, and it's really rude of her not to take no for an answer.",
+        "body_html": "<div class=\"md\"><p>NTA  &quot;I can&#39;t do this right now&quot; is valid reason not to do something.  You don&#39;t owe your friend a reason, and it&#39;s really rude of her not to take no for an answer.</p>\n</div>",
+        "created_utc": "2024-12-09 07:42:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m141q9x",
+        "is_submitter": false,
+        "link_id": "t3_1h9vjdp",
+        "parent_id": "t3_1h9vjdp",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/rpepperpot_reddit",
+        "body": "Birthday or not, your friend does not get to determine how you spend your money, nor to choose what her present will be (in this case, eating in a restaurant).  You are NTA for \"ruining\" her birthday (she did that all on her own, by presuming that your money was hers to spend), but you're a bit of one to yourself for giving in to her demands.  A good friend would understand that money earmarked for a check-up should not be spent on dinner in a restaurant.",
+        "body_html": "<div class=\"md\"><p>Birthday or not, your friend does not get to determine how you spend your money, nor to choose what her present will be (in this case, eating in a restaurant).  You are NTA for &quot;ruining&quot; her birthday (she did that all on her own, by presuming that your money was hers to spend), but you&#39;re a bit of one to yourself for giving in to her demands.  A good friend would understand that money earmarked for a check-up should not be spent on dinner in a restaurant.</p>\n</div>",
+        "created_utc": "2024-12-09 10:39:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14uct1",
+        "is_submitter": false,
+        "link_id": "t3_1h9vjdp",
+        "parent_id": "t3_1h9vjdp",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha3hba/aitah_for_telling_my_friends_that_theyre_being/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2024-12-09 14:19:42",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Fake",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1ha3hba/aitah_for_telling_my_friends_that_theyre_being/",
+      "score": 0,
+      "selftext": "[deleted]",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for telling my friends that they\u2019re being foolish and willfully ignorant?",
+      "upvote_ratio": 0.33
+    },
+    "comments": [
+      {
+        "author": "u/Grouchy-Entry6000",
+        "body": "Yeah buddy pack your bags",
+        "body_html": "<div class=\"md\"><p>Yeah buddy pack your bags</p>\n</div>",
+        "created_utc": "2024-12-09 14:21:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15of9f",
+        "is_submitter": false,
+        "link_id": "t3_1ha3hba",
+        "parent_id": "t3_1ha3hba",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/WinnerActive9414",
+        "body": "YTA for this post",
+        "body_html": "<div class=\"md\"><p>YTA for this post</p>\n</div>",
+        "created_utc": "2024-12-09 15:01:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15smj9",
+        "is_submitter": false,
+        "link_id": "t3_1ha3hba",
+        "parent_id": "t3_1ha3hba",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

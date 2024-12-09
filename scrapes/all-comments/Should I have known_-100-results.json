@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha0b27/should_i_have_known/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/MOTHEROFPERSEUSSF",
+      "created_utc": "2024-12-09 11:13:05",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1ha0b27/should_i_have_known/",
+      "score": 1,
+      "selftext": "\n\n\nA group of friends went to an art open studios today.\nOne friend got there early and found a studio that was giving away free art.\nShe grabbed a framed piece thinking that another of our friends might want it, but when that friend saw the color and knew I liked the color, she offered it to me. \nI thankfully and gladly accepted, and was also able to pick up some other pieces that I liked.\nWhen I got home, I realized that another piece I had chosen was the same size as this odd shaped custom frame, so I swapped the piece I chose (and liked better) for the piece that my friends had offered me, and excitedly sent a pic to both of them of the newly framed artwork, telling them THANKS!!\nInstantly I get a response back from the friend who found it first, asking me where the original artwork was.\nI sent a picture showing that it had not been harmed, and was then told that 'had she known I only wanted it for the frame, the first friend would have never offered it to me'.\nI certainly didn't \"only want it for the frame\", I just liked the other piece more.\nNow they're both upset w/me because they feel like they did me a kindness by offering me the picture, and if I wasn't going to keep the picture intact, then I also shouldn't keep the frame. \nI can see that, but I also feel like when you give someone something, it's w/o strings, though I'm certainly not doubling down on that. \nI am perfectly fine putting the original artwork back in the frame and returning it to my friend, I just don't see how I so quickly became TA when I had no idea that I \"should have known\" that the picture was only mine if I kept it as it is.\nFWIW, I've always had trouble navigating \"girl subtext\", and I guess I just missed the boat on this one. \ud83e\udd37\ud83c\udffc\n\n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Should I have known?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/magicalearnings",
+        "body": "You didn't mean any harm, and it's fair to feel confused. If it helps smooth things over, returning it might be the easiest way out.",
+        "body_html": "<div class=\"md\"><p>You didn&#39;t mean any harm, and it&#39;s fair to feel confused. If it helps smooth things over, returning it might be the easiest way out.</p>\n</div>",
+        "created_utc": "2024-12-09 11:16:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "m1502ug",
+        "is_submitter": false,
+        "link_id": "t3_1ha0b27",
+        "parent_id": "t3_1ha0b27",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/iamcheekycharmer",
+        "body": "When your friends offered you the framed artwork, there were no conditions stated about keeping it as-is. It's fair to assume that once it was gifted, it became yours to enjoy however you saw fit.",
+        "body_html": "<div class=\"md\"><p>When your friends offered you the framed artwork, there were no conditions stated about keeping it as-is. It&#39;s fair to assume that once it was gifted, it became yours to enjoy however you saw fit.</p>\n</div>",
+        "created_utc": "2024-12-09 11:27:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m151tza",
+        "is_submitter": false,
+        "link_id": "t3_1ha0b27",
+        "parent_id": "t3_1ha0b27",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,654 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1gy74v3/aitah_for_being_excited_that_my_22_year_old/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2024-11-24 03:05:38",
+      "distinguished": null,
+      "edited": "2024-11-24 22:39:48",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 38,
+      "permalink": "/r/AITAH/comments/1gy74v3/aitah_for_being_excited_that_my_22_year_old/",
+      "score": 54,
+      "selftext": "[deleted]",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for being excited that my 22 year old \u201cpigpen\u201d son is moving out? ",
+      "upvote_ratio": 0.89
+    },
+    "comments": [
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2024-11-24 03:19:25",
+        "distinguished": null,
+        "edited": "2024-11-24 03:24:53",
+        "id": "lymf1je",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 40,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thanks! \ud83d\ude0a\n\nI love and will miss him but I I will be happier when my place is clean.",
+            "body_html": "<div class=\"md\"><p>Thanks! \ud83d\ude0a</p>\n\n<p>I love and will miss him but I I will be happier when my place is clean.</p>\n</div>",
+            "created_utc": "2024-11-24 03:24:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "lymfz8a",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lymf1je",
+            "score": 14,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/sweetietoothbaker",
+        "body": "NTA You\u2019ve been incredibly patient, and it\u2019s completely understandable that after all the caregiving and the mess, you\u2019re looking forward to some peace and cleanliness. You\u2019re not celebrating him leaving; you're just excited for your space back. It\u2019s a huge relief after all the stress of taking care of others and dealing with the constant mess. He\u2019s an adult now, and while you love him, it's okay to look forward to having your own space and peace again.",
+        "body_html": "<div class=\"md\"><p>NTA You\u2019ve been incredibly patient, and it\u2019s completely understandable that after all the caregiving and the mess, you\u2019re looking forward to some peace and cleanliness. You\u2019re not celebrating him leaving; you&#39;re just excited for your space back. It\u2019s a huge relief after all the stress of taking care of others and dealing with the constant mess. He\u2019s an adult now, and while you love him, it&#39;s okay to look forward to having your own space and peace again.</p>\n</div>",
+        "created_utc": "2024-11-24 03:34:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymhxml",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 15,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you! That\u2019s exactly how I feel. Thanks for seeing me.",
+            "body_html": "<div class=\"md\"><p>Thank you! That\u2019s exactly how I feel. Thanks for seeing me.</p>\n</div>",
+            "created_utc": "2024-11-24 03:37:04",
+            "distinguished": null,
+            "edited": false,
+            "id": "lymid6y",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lymhxml",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/puffpastrysweet",
+        "body": "You\u2019ve clearly been a loving and supportive mom, and the fact that you\u2019re helping him with his move and giving him furniture shows your care. At the same time, it's okay for you to feel relief and happiness about regaining control over your living space, especially considering your health and busy work schedule.",
+        "body_html": "<div class=\"md\"><p>You\u2019ve clearly been a loving and supportive mom, and the fact that you\u2019re helping him with his move and giving him furniture shows your care. At the same time, it&#39;s okay for you to feel relief and happiness about regaining control over your living space, especially considering your health and busy work schedule.</p>\n</div>",
+        "created_utc": "2024-11-24 10:26:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyof0ai",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you for your very kind post. \u2764\ufe0f",
+            "body_html": "<div class=\"md\"><p>Thank you for your very kind post. \u2764\ufe0f</p>\n</div>",
+            "created_utc": "2024-11-24 12:09:09",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyoujpc",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyof0ai",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Cinemaphreak",
+        "body": "NTA\n\nHe had a choice: act like a mature adult and clean up after himself... or be subject to getting called out for it. \n\nEnjoy your soon-to-be non-pigsty home and give him some time to get over being butt-hurt over consequences of his actions.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>He had a choice: act like a mature adult and clean up after himself... or be subject to getting called out for it. </p>\n\n<p>Enjoy your soon-to-be non-pigsty home and give him some time to get over being butt-hurt over consequences of his actions.</p>\n</div>",
+        "created_utc": "2024-11-24 04:05:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymnlaa",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "\ud83d\ude02 I love your comment. I agree that he has no reason to be butthurt. I asked him so many times to do better and I was nice about it but I got tired of constantly asking, so the place is a disaster and I literally cannot deal with it anymore. But we do love each other and have a close relationship due to the fact that I\u2019ve completely accepted and supported him being trans. I know things will be better between us when he moves out, but right now I am quietly celebrating in my mind. \ud83c\udf89",
+            "body_html": "<div class=\"md\"><p>\ud83d\ude02 I love your comment. I agree that he has no reason to be butthurt. I asked him so many times to do better and I was nice about it but I got tired of constantly asking, so the place is a disaster and I literally cannot deal with it anymore. But we do love each other and have a close relationship due to the fact that I\u2019ve completely accepted and supported him being trans. I know things will be better between us when he moves out, but right now I am quietly celebrating in my mind. \ud83c\udf89</p>\n</div>",
+            "created_utc": "2024-11-24 04:12:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "lymov2y",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lymnlaa",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/ImaginaryPark6311",
+        "body": "PLEASE HIRE SOMEONE to clean.\n\n\nYou need a break.\u00a0\n\n\nNTA\u00a0",
+        "body_html": "<div class=\"md\"><p>PLEASE HIRE SOMEONE to clean.</p>\n\n<p>You need a break.\u00a0</p>\n\n<p>NTA\u00a0</p>\n</div>",
+        "created_utc": "2024-11-24 05:30:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyn2r5f",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you! Right now I\u2019m just kind of tidying up as he gets his stuff out of each area. I think after he moves and all the trash and junk has been cleared away, I will hire someone because I don\u2019t think I can physically do it. It will be easy to keep clean once it\u2019s done though so I\u2019m definitely looking forward to that!",
+            "body_html": "<div class=\"md\"><p>Thank you! Right now I\u2019m just kind of tidying up as he gets his stuff out of each area. I think after he moves and all the trash and junk has been cleared away, I will hire someone because I don\u2019t think I can physically do it. It will be easy to keep clean once it\u2019s done though so I\u2019m definitely looking forward to that!</p>\n</div>",
+            "created_utc": "2024-11-24 05:40:05",
+            "distinguished": null,
+            "edited": "2024-11-24 06:22:33",
+            "id": "lyn4ga9",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyn2r5f",
+            "score": 6,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/ameasuredresponse",
+        "body": "NTA. Get him a swiffer and some windex for a housewarming present. Maybe dishwashing gloves?",
+        "body_html": "<div class=\"md\"><p>NTA. Get him a swiffer and some windex for a housewarming present. Maybe dishwashing gloves?</p>\n</div>",
+        "created_utc": "2024-11-24 12:19:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyovyta",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "\ud83d\ude02 oh, that would be an epic housewarming gift. I\u2019m already helping him by getting the stuff he needs for his bathroom. I can make a big basket with all the cleaning supplies on the top.",
+            "body_html": "<div class=\"md\"><p>\ud83d\ude02 oh, that would be an epic housewarming gift. I\u2019m already helping him by getting the stuff he needs for his bathroom. I can make a big basket with all the cleaning supplies on the top.</p>\n</div>",
+            "created_utc": "2024-11-24 12:23:15",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyowhz5",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyovyta",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/lepan_53",
+        "body": "NTA. Usually I'd say \"you musn't have parented properly\" **but** you didn't have a chance to be his mum really, as he was with his father. \n\nThat said, you can kick his friends out (or call the police to do so due to your MS)",
+        "body_html": "<div class=\"md\"><p>NTA. Usually I&#39;d say &quot;you musn&#39;t have parented properly&quot; <strong>but</strong> you didn&#39;t have a chance to be his mum really, as he was with his father. </p>\n\n<p>That said, you can kick his friends out (or call the police to do so due to your MS)</p>\n</div>",
+        "created_utc": "2024-11-25 00:13:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyracir",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you. \ud83d\ude02 thankfully I won\u2019t have to call the police as he\u2019s definitely moving out by next weekend. \n\nAnd since he\u2019s been with me, I have taught many life skills that his father never took the time to, but I don\u2019t know how to fix lazy.",
+            "body_html": "<div class=\"md\"><p>Thank you. \ud83d\ude02 thankfully I won\u2019t have to call the police as he\u2019s definitely moving out by next weekend. </p>\n\n<p>And since he\u2019s been with me, I have taught many life skills that his father never took the time to, but I don\u2019t know how to fix lazy.</p>\n</div>",
+            "created_utc": "2024-11-25 00:18:52",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyrbb8q",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyracir",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/lepan_53",
+                "body": "Well they do say, you can't teach common sense!\n\nyou're 57 working 60 hours, *you deserve peace.*",
+                "body_html": "<div class=\"md\"><p>Well they do say, you can&#39;t teach common sense!</p>\n\n<p>you&#39;re 57 working 60 hours, <em>you deserve peace.</em></p>\n</div>",
+                "created_utc": "2024-11-25 00:20:49",
+                "distinguished": null,
+                "edited": false,
+                "id": "lyrbo9g",
+                "is_submitter": false,
+                "link_id": "t3_1gy74v3",
+                "parent_id": "t1_lyrbb8q",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/strawtrash",
+                    "body": "Thank you! I agree. \u2764\ufe0f",
+                    "body_html": "<div class=\"md\"><p>Thank you! I agree. \u2764\ufe0f</p>\n</div>",
+                    "created_utc": "2024-11-25 00:25:11",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "lyrchgh",
+                    "is_submitter": false,
+                    "link_id": "t3_1gy74v3",
+                    "parent_id": "t1_lyrbo9g",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/sweetbakecake",
+        "body": "NTA You've been patient for 2.5 years and done your best to help him, but it's completely understandable to feel relieved when you're finally getting your space back.",
+        "body_html": "<div class=\"md\"><p>NTA You&#39;ve been patient for 2.5 years and done your best to help him, but it&#39;s completely understandable to feel relieved when you&#39;re finally getting your space back.</p>\n</div>",
+        "created_utc": "2024-11-24 03:40:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "lymiztz",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Oh what sweet relief it will be! And I\u2019m excited about having a different relationship with my son!",
+            "body_html": "<div class=\"md\"><p>Oh what sweet relief it will be! And I\u2019m excited about having a different relationship with my son!</p>\n</div>",
+            "created_utc": "2024-11-24 03:47:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "lymk9yl",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lymiztz",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Ironmike11B",
+        "body": "This is a question of \"WHY DID YOU ALLOW THIS BULLSHIT FOR SO LONG??\" YOU enabled this shit. You never established boundaries or anything. You let him get away with this. If you had set conditions AND maintained them, you wouldn't have to be dealing with people with the mindset of an 8 year old.",
+        "body_html": "<div class=\"md\"><p>This is a question of &quot;WHY DID YOU ALLOW THIS BULLSHIT FOR SO LONG??&quot; YOU enabled this shit. You never established boundaries or anything. You let him get away with this. If you had set conditions AND maintained them, you wouldn&#39;t have to be dealing with people with the mindset of an 8 year old.</p>\n</div>",
+        "created_utc": "2024-11-24 11:07:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyolctj",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "I've admitted that several times in this thread. Thank you",
+            "body_html": "<div class=\"md\"><p>I&#39;ve admitted that several times in this thread. Thank you</p>\n</div>",
+            "created_utc": "2024-11-24 12:06:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyou8pl",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyolctj",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2024-11-24 06:24:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "lync4zc",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Right? I'm kind of waiting for that. But I have a feeling he will be better since he will actually be paying his own bills.",
+            "body_html": "<div class=\"md\"><p>Right? I&#39;m kind of waiting for that. But I have a feeling he will be better since he will actually be paying his own bills.</p>\n</div>",
+            "created_utc": "2024-11-24 06:30:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "lynd8gr",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lync4zc",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Robinnoodle",
+        "body": "NTA. Someone who's an adult like your son is should know how to not be such a pig! What the heck? Lol\n\n\n>I literally live in my room and either pick up takeout or eat things that I can microwave because I hate using the kitchen anymore.\n\n\nWouldn't it have been cheaper to hire a maid so you could cook in the kitchen rather than eating prepared and take out all the time?\n\n\n>That said, I will miss the little shit.\n\n\nI would just focus on that part in your conversations with him. It's natural to be excited about having your space back. Especially when you guys have such different ideas about how the apartment should be kept. However, there's no real reason to bring that up since he's leaving.\n\n\nIt sounds like you two have a pretty close bond. I would focus on that in your conversations with him (that you'll miss him) as to avoid hurt feelings going forward",
+        "body_html": "<div class=\"md\"><p>NTA. Someone who&#39;s an adult like your son is should know how to not be such a pig! What the heck? Lol</p>\n\n<blockquote>\n<p>I literally live in my room and either pick up takeout or eat things that I can microwave because I hate using the kitchen anymore.</p>\n</blockquote>\n\n<p>Wouldn&#39;t it have been cheaper to hire a maid so you could cook in the kitchen rather than eating prepared and take out all the time?</p>\n\n<blockquote>\n<p>That said, I will miss the little shit.</p>\n</blockquote>\n\n<p>I would just focus on that part in your conversations with him. It&#39;s natural to be excited about having your space back. Especially when you guys have such different ideas about how the apartment should be kept. However, there&#39;s no real reason to bring that up since he&#39;s leaving.</p>\n\n<p>It sounds like you two have a pretty close bond. I would focus on that in your conversations with him (that you&#39;ll miss him) as to avoid hurt feelings going forward</p>\n</div>",
+        "created_utc": "2024-11-24 06:46:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "lynfxvz",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Yeah, I spoiled him when he was little and that is on me. I did get a maid a few times but it would get messy again a couple of days later. I thought having a maid in would give him a good starting place. He knows how to clean now. He just doesn\u2019t do it. \n\nBut you\u2019re right, we are super close, and I\u2019m going to miss the heck out of him. I know everything will be fine between him and me. I hung out with him for a little bit today and I think he\u2019s nervous about moving out. I understand that but he\u2019s going, if I have to load the truck and drive him there myself! \ud83d\ude9b",
+            "body_html": "<div class=\"md\"><p>Yeah, I spoiled him when he was little and that is on me. I did get a maid a few times but it would get messy again a couple of days later. I thought having a maid in would give him a good starting place. He knows how to clean now. He just doesn\u2019t do it. </p>\n\n<p>But you\u2019re right, we are super close, and I\u2019m going to miss the heck out of him. I know everything will be fine between him and me. I hung out with him for a little bit today and I think he\u2019s nervous about moving out. I understand that but he\u2019s going, if I have to load the truck and drive him there myself! \ud83d\ude9b</p>\n</div>",
+            "created_utc": "2024-11-24 09:23:38",
+            "distinguished": null,
+            "edited": "2024-11-24 09:29:06",
+            "id": "lyo5dw8",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lynfxvz",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/dunno0019",
+                "body": "So, you failed at raising a competent adult.\n\nAnd instead raised yourself a slob.\n\nSure, be happy he's leaving. But feel free to go ahead a take some responsibility for this pig pen youve created and released upon the world.\n\nY'kno, just a thought.",
+                "body_html": "<div class=\"md\"><p>So, you failed at raising a competent adult.</p>\n\n<p>And instead raised yourself a slob.</p>\n\n<p>Sure, be happy he&#39;s leaving. But feel free to go ahead a take some responsibility for this pig pen youve created and released upon the world.</p>\n\n<p>Y&#39;kno, just a thought.</p>\n</div>",
+                "created_utc": "2024-11-24 11:31:30",
+                "distinguished": null,
+                "edited": false,
+                "id": "lyop10v",
+                "is_submitter": false,
+                "link_id": "t3_1gy74v3",
+                "parent_id": "t1_lyo5dw8",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "[deleted]",
+                    "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                    "created_utc": "2024-11-24 12:04:54",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "lyoty7w",
+                    "is_submitter": false,
+                    "link_id": "t3_1gy74v3",
+                    "parent_id": "t1_lyop10v",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/dunno0019",
+                        "body": "Oh. Bless your heart. \n\nYou think I'm the asshole?\n\nWho do you think his new roommates are gonna call an asshole? Won't be me!\n\nAnd they will be saying much harsher stuff than anything Ive said. \n\nEnjoy your little celebration. \n\nHopefully reality doesn't hurt your pwecious widdle pig pen too badly.",
+                        "body_html": "<div class=\"md\"><p>Oh. Bless your heart. </p>\n\n<p>You think I&#39;m the asshole?</p>\n\n<p>Who do you think his new roommates are gonna call an asshole? Won&#39;t be me!</p>\n\n<p>And they will be saying much harsher stuff than anything Ive said. </p>\n\n<p>Enjoy your little celebration. </p>\n\n<p>Hopefully reality doesn&#39;t hurt your pwecious widdle pig pen too badly.</p>\n</div>",
+                        "created_utc": "2024-11-24 12:12:01",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "lyouy8x",
+                        "is_submitter": false,
+                        "link_id": "t3_1gy74v3",
+                        "parent_id": "t1_lyoty7w",
+                        "score": -2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Sufficient_Stop8381",
+        "body": "NTA. I could not live like that, kid or not. You have a lot more patience. Nothing wrong at all with adult kids leaving the nest and being glad when they do. Things are expensive, but it is possible for them to manage it, despite what they claim.",
+        "body_html": "<div class=\"md\"><p>NTA. I could not live like that, kid or not. You have a lot more patience. Nothing wrong at all with adult kids leaving the nest and being glad when they do. Things are expensive, but it is possible for them to manage it, despite what they claim.</p>\n</div>",
+        "created_utc": "2024-11-24 08:25:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "lynw4e2",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you. Patience comes from being his mom but it does grind my gears, especially since I pay all the bills. I feel like he could have cleaned up, to do his part. We talked about it many times, but I hate confrontation and got tired of reminding him. \n\nI do agree that he can afford to move out. He and his friends will have to learn how to budget and how to prioritize their spending. While he was with me, he went out and did whatever he wanted without saving much money. When he and his friends got serious about moving in together, he started saving all of his money and bought a car with cash, so I know he can buckle down when he needs to.",
+            "body_html": "<div class=\"md\"><p>Thank you. Patience comes from being his mom but it does grind my gears, especially since I pay all the bills. I feel like he could have cleaned up, to do his part. We talked about it many times, but I hate confrontation and got tired of reminding him. </p>\n\n<p>I do agree that he can afford to move out. He and his friends will have to learn how to budget and how to prioritize their spending. While he was with me, he went out and did whatever he wanted without saving much money. When he and his friends got serious about moving in together, he started saving all of his money and bought a car with cash, so I know he can buckle down when he needs to.</p>\n</div>",
+            "created_utc": "2024-11-24 09:12:39",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyo3p5d",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lynw4e2",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/howievermont",
+        "body": "NTA!!!! Congrats mom, you've succeeded, your offspring has flown the nest and the reward is you get to have a peaceful, quiet, clean place, where you can put something down and it'll be where you left it forever if you don't move it again yourself.  I've been there, I know the feeling.  Yeah, you hurt his feelings, but give him a hug and he'll be all right.  It's scary moving out.",
+        "body_html": "<div class=\"md\"><p>NTA!!!! Congrats mom, you&#39;ve succeeded, your offspring has flown the nest and the reward is you get to have a peaceful, quiet, clean place, where you can put something down and it&#39;ll be where you left it forever if you don&#39;t move it again yourself.  I&#39;ve been there, I know the feeling.  Yeah, you hurt his feelings, but give him a hug and he&#39;ll be all right.  It&#39;s scary moving out.</p>\n</div>",
+        "created_utc": "2024-11-24 10:38:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyogz0l",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you! That\u2019s a really sweet comment. I feel like he will do okay. I mean we are living in a 1 bedroom apartment together. It\u2019s bound to get messy. Overall he\u2019s a good kid and I\u2019m proud of him. When he sets his mind to something he always achieves it. He saved $7,500 in less than a year and bought a car for cash. That\u2019s pretty impressive for a guy his age. \n\nETA: oh my gosh, you\u2019re so right about being able to find things! I can never find anything now and it makes me feel like I\u2019m going senile, when it\u2019s just that he\u2019s used the item and not returned it to its home. \ud83d\ude02",
+            "body_html": "<div class=\"md\"><p>Thank you! That\u2019s a really sweet comment. I feel like he will do okay. I mean we are living in a 1 bedroom apartment together. It\u2019s bound to get messy. Overall he\u2019s a good kid and I\u2019m proud of him. When he sets his mind to something he always achieves it. He saved $7,500 in less than a year and bought a car for cash. That\u2019s pretty impressive for a guy his age. </p>\n\n<p>ETA: oh my gosh, you\u2019re so right about being able to find things! I can never find anything now and it makes me feel like I\u2019m going senile, when it\u2019s just that he\u2019s used the item and not returned it to its home. \ud83d\ude02</p>\n</div>",
+            "created_utc": "2024-11-24 12:13:52",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyov7ib",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyogz0l",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Peterthinking",
+        "body": "NTA Don't let him back in. No matter what. Enjoy your clean space and new life. I'm happy for you.",
+        "body_html": "<div class=\"md\"><p>NTA Don&#39;t let him back in. No matter what. Enjoy your clean space and new life. I&#39;m happy for you.</p>\n</div>",
+        "created_utc": "2024-11-24 11:04:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "lyokyav",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you! \ud83d\ude0a \n\nI will try my best to never have to be in this situation again. \n\nMy mom always said \u201cWhen you move out, you can\u2019t come back.\u201d I moved out when I was almost 18 and at 20 hit a stumbling block and would have really loved to just go home. But she meant what she said. \n\nI loved my mom dearly but she was very strict and I wanted a different kind of relationship with my children. I was probably too much of a pushover.",
+            "body_html": "<div class=\"md\"><p>Thank you! \ud83d\ude0a </p>\n\n<p>I will try my best to never have to be in this situation again. </p>\n\n<p>My mom always said \u201cWhen you move out, you can\u2019t come back.\u201d I moved out when I was almost 18 and at 20 hit a stumbling block and would have really loved to just go home. But she meant what she said. </p>\n\n<p>I loved my mom dearly but she was very strict and I wanted a different kind of relationship with my children. I was probably too much of a pushover.</p>\n</div>",
+            "created_utc": "2024-11-24 12:20:44",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyow5na",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lyokyav",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Peterthinking",
+                "body": "I let my daughter move back in 3 times. Last time she left she left a huge pile of garbage and broken furniture. Anyway, if she grenades her life again she will just have to pick up the pieces herself this time. Don't even let them store things. They will never be back for them and you will miss that space. \"It's just a few boxes and some furniture\" sounds like things you need in an empty apartment. Right? Keep nothing. Except good memories.",
+                "body_html": "<div class=\"md\"><p>I let my daughter move back in 3 times. Last time she left she left a huge pile of garbage and broken furniture. Anyway, if she grenades her life again she will just have to pick up the pieces herself this time. Don&#39;t even let them store things. They will never be back for them and you will miss that space. &quot;It&#39;s just a few boxes and some furniture&quot; sounds like things you need in an empty apartment. Right? Keep nothing. Except good memories.</p>\n</div>",
+                "created_utc": "2024-11-24 15:32:55",
+                "distinguished": null,
+                "edited": false,
+                "id": "lypikd4",
+                "is_submitter": false,
+                "link_id": "t3_1gy74v3",
+                "parent_id": "t1_lyow5na",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/strawtrash",
+                    "body": "Thank you! That\u2019s great advice. I live in a tiny one bedroom apartment and he\u2019s moving into a 4 bedroom house. If he doesn\u2019t have enough room for all of the shit that is currently spread across my dining and living room, he better rent a storage unit! \ud83d\ude02",
+                    "body_html": "<div class=\"md\"><p>Thank you! That\u2019s great advice. I live in a tiny one bedroom apartment and he\u2019s moving into a 4 bedroom house. If he doesn\u2019t have enough room for all of the shit that is currently spread across my dining and living room, he better rent a storage unit! \ud83d\ude02</p>\n</div>",
+                    "created_utc": "2024-11-24 22:21:05",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "lyqqstf",
+                    "is_submitter": false,
+                    "link_id": "t3_1gy74v3",
+                    "parent_id": "t1_lypikd4",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Sugarpuff_Karma",
+        "body": "Nope & don't let them move back in..",
+        "body_html": "<div class=\"md\"><p>Nope &amp; don&#39;t let them move back in..</p>\n</div>",
+        "created_utc": "2024-11-24 07:07:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "lynjcge",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "Thank you and I hope that\u2019s never a situation where I have to make that decision!!",
+            "body_html": "<div class=\"md\"><p>Thank you and I hope that\u2019s never a situation where I have to make that decision!!</p>\n</div>",
+            "created_utc": "2024-11-24 09:24:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyo5l27",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lynjcge",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/christmas_bigdogs",
+        "body": "Maybe your comment will be a reality check before he moves in with roommates who have less feelings if obligation to just put up with the unhygienic mess.\u00a0\nYou live him and are also happy for him to move out. Both can be true at once.",
+        "body_html": "<div class=\"md\"><p>Maybe your comment will be a reality check before he moves in with roommates who have less feelings if obligation to just put up with the unhygienic mess.\u00a0\nYou live him and are also happy for him to move out. Both can be true at once.</p>\n</div>",
+        "created_utc": "2024-11-24 07:19:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "lynlfgk",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/strawtrash",
+            "body": "I hope so! I feel like he will do better when it\u2019s his place and he\u2019s paying his own bills. I\u2019m so tired of the mess but I'm excited and happy for him. Almost as excited as I am for myself.",
+            "body_html": "<div class=\"md\"><p>I hope so! I feel like he will do better when it\u2019s his place and he\u2019s paying his own bills. I\u2019m so tired of the mess but I&#39;m excited and happy for him. Almost as excited as I am for myself.</p>\n</div>",
+            "created_utc": "2024-11-24 09:27:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "lyo5zy1",
+            "is_submitter": false,
+            "link_id": "t3_1gy74v3",
+            "parent_id": "t1_lynlfgk",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/SageoftheForlornPath",
+        "body": "you lost me at \"he's trans\" the father is right, and you're failing your kid",
+        "body_html": "<div class=\"md\"><p>you lost me at &quot;he&#39;s trans&quot; the father is right, and you&#39;re failing your kid</p>\n</div>",
+        "created_utc": "2024-11-24 06:57:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "lynhqew",
+        "is_submitter": false,
+        "link_id": "t3_1gy74v3",
+        "parent_id": "t3_1gy74v3",
+        "score": -6,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

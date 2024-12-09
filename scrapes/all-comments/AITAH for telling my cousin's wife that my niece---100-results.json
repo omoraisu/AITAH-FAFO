@@ -1,0 +1,92 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9xz7b/aitah_for_telling_my_cousins_wife_that_my_niece/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Super_Fire1",
+      "created_utc": "2024-12-09 09:09:43",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1h9xz7b/aitah_for_telling_my_cousins_wife_that_my_niece/",
+      "score": 1,
+      "selftext": "I'm 19 and female and my niece is 11. Often, I see her on her phone at family gatherings, especially at Christmas and birthday's.\n\nA few hours ago, I messaged her, I'll call her Lucy, and told her about it and she messaged me back asking me why and I messaged back saying that it was a bit weird and bad and she messaged back and said that the niece is paranoid that people judge her and is self-conscious. I apologised and said sorry. She said it's okay and that was it. I still feel bad that I asked her it and that I was being rude to her. I didn't want to write in my message that it was disrespectful because that would've been very bad. But to me, it was bad? Why was she on her phone when everyone else is talking during Christmas/birthday's?\n\nNow I know the truth and I still feel bad.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for telling my cousin's wife that my niece is often on her phone?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Spiteweasel",
+        "body": "Why do you think it's disrespectful to be on her phone. If people were talking to her directly, then I can understand, but unless she is actively included in the conversation, why does it matter? This is a legitimate question, I am not trying to pick a fight.",
+        "body_html": "<div class=\"md\"><p>Why do you think it&#39;s disrespectful to be on her phone. If people were talking to her directly, then I can understand, but unless she is actively included in the conversation, why does it matter? This is a legitimate question, I am not trying to pick a fight.</p>\n</div>",
+        "created_utc": "2024-12-09 09:24:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14ik0h",
+        "is_submitter": false,
+        "link_id": "t3_1h9xz7b",
+        "parent_id": "t3_1h9xz7b",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/OK_LK",
+        "body": "YTA why are you interfering?\n\nYour sister surely knows her daughter is on her phone\n\nOne thing I remember from family dinners, especially at that age, is the conversation can be rather dull and there wasn't a lot for me to engage in\n\nIf you are so bothered by your niece being on her phone, why don't you try talking to her about things she wants to talk about?",
+        "body_html": "<div class=\"md\"><p>YTA why are you interfering?</p>\n\n<p>Your sister surely knows her daughter is on her phone</p>\n\n<p>One thing I remember from family dinners, especially at that age, is the conversation can be rather dull and there wasn&#39;t a lot for me to engage in</p>\n\n<p>If you are so bothered by your niece being on her phone, why don&#39;t you try talking to her about things she wants to talk about?</p>\n</div>",
+        "created_utc": "2024-12-09 09:41:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14l7r9",
+        "is_submitter": false,
+        "link_id": "t3_1h9xz7b",
+        "parent_id": "t3_1h9xz7b",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/epeeist42",
+            "body": "This. I'd find it inappropriate, but if the person's parents know, and the host obviously knows also, it's not something that affects me other than personal dislike. I'd stay out of it, just like OP should.\n\nOnly if e.g. the kid on the phone was supposed to be making sure a younger child wasn't playing with knives or something, okay, that's a hypothetically dangerous situation that is worth bringing up. But not just being on the phone at the table annoying OP, tough, OP is not the host, OP is not the parent.",
+            "body_html": "<div class=\"md\"><p>This. I&#39;d find it inappropriate, but if the person&#39;s parents know, and the host obviously knows also, it&#39;s not something that affects me other than personal dislike. I&#39;d stay out of it, just like OP should.</p>\n\n<p>Only if e.g. the kid on the phone was supposed to be making sure a younger child wasn&#39;t playing with knives or something, okay, that&#39;s a hypothetically dangerous situation that is worth bringing up. But not just being on the phone at the table annoying OP, tough, OP is not the host, OP is not the parent.</p>\n</div>",
+            "created_utc": "2024-12-09 10:19:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "m14r5v6",
+            "is_submitter": false,
+            "link_id": "t3_1h9xz7b",
+            "parent_id": "t1_m14l7r9",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/alrighttreacle11",
+        "body": "Yta, shall on her phone to avoid people like you and i don't blame her",
+        "body_html": "<div class=\"md\"><p>Yta, shall on her phone to avoid people like you and i don&#39;t blame her</p>\n</div>",
+        "created_utc": "2024-12-09 09:47:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14m72f",
+        "is_submitter": false,
+        "link_id": "t3_1h9xz7b",
+        "parent_id": "t3_1h9xz7b",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha1cuy/aitah_for_telling_my_friend_that_making_and/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/According-Hawk4094",
+      "created_utc": "2024-12-09 12:11:26",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 6,
+      "permalink": "/r/AITAH/comments/1ha1cuy/aitah_for_telling_my_friend_that_making_and/",
+      "score": 2,
+      "selftext": "Today I (24f) received a text from my best friend (24f) that she wanted to make a pros and cons list of her long term boyfriend and wanted my input. I was at work so it was a while before I texted back. I asked if I could call her because this was a sensitive topic that required nuance. She texted back that she couldn\u2019t call and that she already brought it up to her boyfriend. This really confused me because (in my mind at least) you don\u2019t share a pros and cons list with the person you made one of. I asked her a few clarifying questions and gathered this: she wants them both to make a pros and cons lists of each other and talk about them for self improvement and to strengthen the relationship. I see where she\u2019s coming from but still think it\u2019s a bad idea. I told her to be careful because that conversation could be really hurtful and would only work if no one took those constructive criticisms personally. Here\u2019s where I may be TA I specifically singled out her bf as the one getting hurt/defensive and asked if she thought he could handle it. I honestly don\u2019t think he\u2019s mature enough for what she\u2019s asking for and that making a pros and cons list is a way of justifying few reasons to stay in the relationship when you have too many reasons to leave. I don\u2019t think she\u2019s really ready for that conversation yet and she\u2019s not responding to my texts anymore. Even though I tried to be nice about it, I\u2019m afraid I overstepped\u2026should I have gone about this a different way? ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for telling my friend that making and sharing a pros/cons list of her bf is not a good idea?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/globaltrekker1",
+        "body": "NTA\n\nWe all want to hear the truth, until we hear it...",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>We all want to hear the truth, until we hear it...</p>\n</div>",
+        "created_utc": "2024-12-09 12:13:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "m158nm8",
+        "is_submitter": false,
+        "link_id": "t3_1ha1cuy",
+        "parent_id": "t3_1ha1cuy",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Aggravating_Ad_3013",
+        "body": "It\u2019s not your business - it\u2019s theirs. You should have just said it\u2019s not something you\u2019re comfortable commenting on and left it at that. \n\nNeedless drama happens when folks insert themselves into things that don\u2019t concern them. \n\nIt\u2019s living rent free in your head to boot - move on :)",
+        "body_html": "<div class=\"md\"><p>It\u2019s not your business - it\u2019s theirs. You should have just said it\u2019s not something you\u2019re comfortable commenting on and left it at that. </p>\n\n<p>Needless drama happens when folks insert themselves into things that don\u2019t concern them. </p>\n\n<p>It\u2019s living rent free in your head to boot - move on :)</p>\n</div>",
+        "created_utc": "2024-12-09 12:15:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "m158w6d",
+        "is_submitter": false,
+        "link_id": "t3_1ha1cuy",
+        "parent_id": "t3_1ha1cuy",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/0wittacious1",
+        "body": "NTA, but stay out of it. There\u2019s no way for you to win here.",
+        "body_html": "<div class=\"md\"><p>NTA, but stay out of it. There\u2019s no way for you to win here.</p>\n</div>",
+        "created_utc": "2024-12-09 12:24:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15aabf",
+        "is_submitter": false,
+        "link_id": "t3_1ha1cuy",
+        "parent_id": "t3_1ha1cuy",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/MembershipKlutzy1476",
+        "body": "Making a list is fine, sharing it is a terrible idea she will regret.",
+        "body_html": "<div class=\"md\"><p>Making a list is fine, sharing it is a terrible idea she will regret.</p>\n</div>",
+        "created_utc": "2024-12-09 12:13:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "m158p2y",
+        "is_submitter": false,
+        "link_id": "t3_1ha1cuy",
+        "parent_id": "t3_1ha1cuy",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AnakinSkywalkerisfav",
+        "body": "NAH.",
+        "body_html": "<div class=\"md\"><p>NAH.</p>\n</div>",
+        "created_utc": "2024-12-09 12:26:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15akq6",
+        "is_submitter": false,
+        "link_id": "t3_1ha1cuy",
+        "parent_id": "t3_1ha1cuy",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

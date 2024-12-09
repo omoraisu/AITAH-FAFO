@@ -1,0 +1,76 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9smpw/aita_for_blocking_my_friend_on_discord_because/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/OctaneAIinsider",
+      "created_utc": "2024-12-09 04:57:22",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9smpw/aita_for_blocking_my_friend_on_discord_because/",
+      "score": 1,
+      "selftext": "I (20m) and my friend (21f) share a class in college. She saw me as a suggestion on discord so she added me. But the thing is her and her friend keep making fat jokes about me. I am not fat by any means (5\u201910) 165lbs but her and her friend keep making those jokes. I told her I would block her if she kept making those jokes, but she kept going. I blocked her on everything and now my friend and roommates are calling me an asshole. AITA?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for blocking my friend on discord because she keeps making fat jokes about me?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Equal_Factor_6449",
+        "body": "NTA.\u00a0 It is your discord. She is not even a friend at this point.",
+        "body_html": "<div class=\"md\"><p>NTA.\u00a0 It is your discord. She is not even a friend at this point.</p>\n</div>",
+        "created_utc": "2024-12-09 04:59:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m138ouj",
+        "is_submitter": false,
+        "link_id": "t3_1h9smpw",
+        "parent_id": "t3_1h9smpw",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/PastComprehensive243",
+        "body": "NTA she sucks so bad you deserve better",
+        "body_html": "<div class=\"md\"><p>NTA she sucks so bad you deserve better</p>\n</div>",
+        "created_utc": "2024-12-09 05:07:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13a8v1",
+        "is_submitter": false,
+        "link_id": "t3_1h9smpw",
+        "parent_id": "t3_1h9smpw",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/MrMatthew-",
+        "body": "NTA. You don't have to put up with that",
+        "body_html": "<div class=\"md\"><p>NTA. You don&#39;t have to put up with that</p>\n</div>",
+        "created_utc": "2024-12-09 05:49:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13hyol",
+        "is_submitter": false,
+        "link_id": "t3_1h9smpw",
+        "parent_id": "t3_1h9smpw",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

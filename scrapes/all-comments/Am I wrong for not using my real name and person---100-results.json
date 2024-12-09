@@ -1,0 +1,92 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9uzv0/am_i_wrong_for_not_using_my_real_name_and/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Long-Woodpecker1238",
+      "created_utc": "2024-12-09 06:43:48",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9uzv0/am_i_wrong_for_not_using_my_real_name_and/",
+      "score": 1,
+      "selftext": "  \nSo, here\u2019s the deal: I\u2019ve been using Instagram for a while now, but I\u2019ve made a conscious decision not to use my real name or post anything too personal. My name on Instagram and my username is something generic. My PFP is not my face its just a random logo. I don\u2019t post pictures of myself, my surroundings, or anything that could give away my location. It\u2019s just how I feel comfortable using the platform.\n\nThe thing is, some of my family members have been pressuring me to use my actual name, post photos of myself, and share more of my life. They think I\u2019m being \u201ctoo secretive\u201d or \u201cweird\u201d about it. But honestly, it\u2019s not about being weird\u2014it\u2019s about feeling safe. I don\u2019t feel comfortable exposing that much of myself online, and I like maintaining my privacy.\n\nI get that they might not fully understand my perspective, but the constant pressure has led me to question myself?\n\nAm I in the wrong for not wanting to use my real name and post myself? Am I overreacting and it is completely safe?  \nIf I'm not, how can I explain to them that I don\u2019t feel safe sharing my real name and personal details online?\n\nWould love to hear your thoughts or advice!",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "Am I wrong for not using my real name and personal info on Instagram?",
+      "upvote_ratio": 0.67
+    },
+    "comments": [
+      {
+        "author": "u/xylophonechimes",
+        "body": "Well firstly, no, you\u2019re most definitely not. Social media is a fucking scary place, and I don\u2019t blame you. I barely post on social media! My instagram handle is my first name only & you can\u2019t see my face in my display picture. I have like 100 followers and I know them all in real life. I just post stories every now and then. I don\u2019t feel that it is \u2018secretive\u2019 at all, it\u2019s just being private. My entire account is private too! \n\nAnd I really believe in evil eye as silly as that may sound! People may not always have the best intentions. Don\u2019t let people / family pressure you into anything! If you want to, you could go through your following and followers list, think to yourself, \u201cwould I trust this person to know xyz about me?\u201d if the answer is no then unfollow and remove lol, who knows, you might post more in the future but that\u2019s for you to decide !!",
+        "body_html": "<div class=\"md\"><p>Well firstly, no, you\u2019re most definitely not. Social media is a fucking scary place, and I don\u2019t blame you. I barely post on social media! My instagram handle is my first name only &amp; you can\u2019t see my face in my display picture. I have like 100 followers and I know them all in real life. I just post stories every now and then. I don\u2019t feel that it is \u2018secretive\u2019 at all, it\u2019s just being private. My entire account is private too! </p>\n\n<p>And I really believe in evil eye as silly as that may sound! People may not always have the best intentions. Don\u2019t let people / family pressure you into anything! If you want to, you could go through your following and followers list, think to yourself, \u201cwould I trust this person to know xyz about me?\u201d if the answer is no then unfollow and remove lol, who knows, you might post more in the future but that\u2019s for you to decide !!</p>\n</div>",
+        "created_utc": "2024-12-09 06:51:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13t36x",
+        "is_submitter": false,
+        "link_id": "t3_1h9uzv0",
+        "parent_id": "t3_1h9uzv0",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Long-Woodpecker1238",
+            "body": "Thank you so much!",
+            "body_html": "<div class=\"md\"><p>Thank you so much!</p>\n</div>",
+            "created_utc": "2024-12-09 06:52:22",
+            "distinguished": null,
+            "edited": false,
+            "id": "m13t8o0",
+            "is_submitter": true,
+            "link_id": "t3_1h9uzv0",
+            "parent_id": "t1_m13t36x",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/neogeshel",
+        "body": "It's none of their business",
+        "body_html": "<div class=\"md\"><p>It&#39;s none of their business</p>\n</div>",
+        "created_utc": "2024-12-09 07:52:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m143eb6",
+        "is_submitter": false,
+        "link_id": "t3_1h9uzv0",
+        "parent_id": "t3_1h9uzv0",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2024-12-09 06:52:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13t9d7",
+        "is_submitter": false,
+        "link_id": "t3_1h9uzv0",
+        "parent_id": "t3_1h9uzv0",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

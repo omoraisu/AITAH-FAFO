@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9zw5y/aitah_for_making_a_girl_cry_at_work/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Korakora1023",
+      "created_utc": "2024-12-09 10:50:50",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9zw5y/aitah_for_making_a_girl_cry_at_work/",
+      "score": 1,
+      "selftext": "I work in the legal department at a corporate job. This girl, lets call her Frank joined the company 6 months ago. We have the same position.\n\nFrank knows my boss from outside of work and that's how she got the job. Come to find out she fluffed her resume a little too much. She has zero negotiating skill and legal background despite bragging about her \"experience\". My boss has come to see through her BS and no longer favors her.\n\nFrank undermines me in front of my bosses and is constantly trying to one-up me. She has called multiple meetings where she basically calls me out for not teaching her about the duties or a certain task. Even though I have spent HOURS teaching her, to the point that some days all I do is answer her questions. Additionally, after we review certain tasks during the meeting she does not even attempt to do them.\n\nThe following situation broke the camels back... Last week she asked me to complete \"urgent\" work for her while she was on PTO on top of covering her inbox on top of the work I also need to do. The following day, when she got back from PTO she felt the need to call me and let me know that I completed one of the \"urgent\" tasks incorrectly and basically told on me to my boss. \n\nThis triggered me, admittedly more than it should have. I talked to my boss about the situation and she told me that I should talk to Frank about it. So the next day, I ask Frank to speak with me in a small breakout room so our other coworkers could not hear. I let her know that I don't mind covering \"urgent\" work in emergency situations and happy to cover incoming requests. But not to leave me work to do while on PTO. I told her that I had to stay late to complete her work. WELP, she proceeded to get extremely defensive and confused as to why I was talking to her. I should have wrapped up the conversation as soon as I noticed she was not going to take it well but did not back down. I further explained if she has an issue with a task I have completed to come to me before going to our Boss. Our Boss does not understand the day-to-day tasks as well as we do, so I should be her first line of defense before asking the boss questions. Although, I could tell she was still fuming, she thanked me for talking to her and said she understood. She than proceeded to tell me that she was still confused about certain tasks so I spent an hour reviewing emails with her. The conversation did not go great, but I felt like we had a better understanding. \n\nWe go back to working at our desks... A couple hours later she stands up and accuses me in front of our coworkers of deleting her emails. I would never do that. So I told her we both need to speak with our boss. We speak with our boss and she continues to accuse me of deleting emails (even though IT could recover them).  \"She starts to cry and tells us that I \"hurt her heart\". I ended up hugging her, bc even though she drives me insane, I'm not totally cold hearted. \n\nAnyway, AITAH? Obv, this story is one sided. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for making a girl cry at work",
+      "upvote_ratio": 0.67
+    },
+    "comments": [
+      {
+        "author": "u/Ok_Decision_",
+        "body": "Nth but the fact you said let\u2019s call her frank is sending me lol",
+        "body_html": "<div class=\"md\"><p>Nth but the fact you said let\u2019s call her frank is sending me lol</p>\n</div>",
+        "created_utc": "2024-12-09 11:10:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14z2r4",
+        "is_submitter": false,
+        "link_id": "t3_1h9zw5y",
+        "parent_id": "t3_1h9zw5y",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Big_Engineering_4736",
+        "body": "I'd look for another job if you can.\n\nHow stressful.\n\nTry to do less for her if you can.",
+        "body_html": "<div class=\"md\"><p>I&#39;d look for another job if you can.</p>\n\n<p>How stressful.</p>\n\n<p>Try to do less for her if you can.</p>\n</div>",
+        "created_utc": "2024-12-09 11:11:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "m14z83o",
+        "is_submitter": false,
+        "link_id": "t3_1h9zw5y",
+        "parent_id": "t3_1h9zw5y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

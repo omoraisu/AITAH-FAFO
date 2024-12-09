@@ -1,0 +1,78 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9w8nu/aita_for_asking_my_downstairs_neighbors_to_turn/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/SunnPop",
+      "created_utc": "2024-12-09 07:43:26",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9w8nu/aita_for_asking_my_downstairs_neighbors_to_turn/",
+      "score": 2,
+      "selftext": "I (F21) live on the top floor of my apartment building and since I\u2019ve moved in my downstairs neighbors have been a pain. \nBack in February I confronted them for the first time about their loud music. And since then I\u2019ve done my best to ignore it but this past week has been insane. \n\nRight before thanksgiving i confronted them again on a weeknight because the music was loud enough to knock things off my wall and shelves including my dead gramma who I had to scoop up, it was vibrating my floor and walls to the point it was making my coffee table rattle. So I went down and asked them nicely to turn it down a bit to which they said \u2018I don\u2019t give a fuck about get back from my door or I\u2019ll fuck you up\u2019 to which I left and called the cops but by the time they got there the music was turned down so they didn\u2019t do anything. \n\nI made two other noise complaints this week and have talked to the apartment manager and nothing has been done. Last night it was loud enough to shake my home again so I went down to ask again then it escalated to us yelling at eachother and one of the people getting in my face, they pretended to hit me but one of the times clipped my nose (I was back against a wall) I don\u2019t think they knew I was recording so I have a video of me screaming \u2018don\u2019t fucking touch do not touch me\u2019 at them and just the whole conversation which they cornered me, called me names, screamed at me etc etc. \n\nEveryone on my floor can hear how loud they are all the time but I\u2019m the only one who ever says anything. I was able to leave when my next door neighbor came down with a bat and told them \u2018yes everyone can hear your music and you threatening her right now\u2019 \n\nI stayed at a friends house because I don\u2019t feel safe around them especially after one of them cornered me and pretended to hit me before they eventually clipped my face. But AITA for asking them to not shake my house and be respectful of the others who live here?? And I don\u2019t even know what to do but at this point I\u2019m scared. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for asking my downstairs neighbors to turn down their music?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/wailingwonder",
+        "body": "Cops generally don't care about this. They COULD do something but probably won't. If your apartment managers won't do anything you'll probably just have to move. And no that's not fair but it's one of the risks of apartments (with useless managers).",
+        "body_html": "<div class=\"md\"><p>Cops generally don&#39;t care about this. They COULD do something but probably won&#39;t. If your apartment managers won&#39;t do anything you&#39;ll probably just have to move. And no that&#39;s not fair but it&#39;s one of the risks of apartments (with useless managers).</p>\n</div>",
+        "created_utc": "2024-12-09 11:55:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m155znj",
+        "is_submitter": false,
+        "link_id": "t3_1h9w8nu",
+        "parent_id": "t3_1h9w8nu",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SunnPop",
+            "body": "It\u2019s the aggression and threats for me like what the heck all I wanted was to talk about it \ud83e\udd72",
+            "body_html": "<div class=\"md\"><p>It\u2019s the aggression and threats for me like what the heck all I wanted was to talk about it \ud83e\udd72</p>\n</div>",
+            "created_utc": "2024-12-09 12:11:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "m158evi",
+            "is_submitter": true,
+            "link_id": "t3_1h9w8nu",
+            "parent_id": "t1_m155znj",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/wailingwonder",
+                "body": "I agree and again feel free to try to go to the cops about that but don't be surprised if they brush it off unfortunately.",
+                "body_html": "<div class=\"md\"><p>I agree and again feel free to try to go to the cops about that but don&#39;t be surprised if they brush it off unfortunately.</p>\n</div>",
+                "created_utc": "2024-12-09 12:14:31",
+                "distinguished": null,
+                "edited": false,
+                "id": "m158scv",
+                "is_submitter": false,
+                "link_id": "t3_1h9w8nu",
+                "parent_id": "t1_m158evi",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

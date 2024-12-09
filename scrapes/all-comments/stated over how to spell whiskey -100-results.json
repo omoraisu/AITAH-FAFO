@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha1ym6/stated_over_how_to_spell_whiskey/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/OkPersimmon693",
+      "created_utc": "2024-12-09 12:45:36",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1ha1ym6/stated_over_how_to_spell_whiskey/",
+      "score": 2,
+      "selftext": "\n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "stated over how to spell whiskey ",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Known_Two_2072",
+        "body": "Wrong sub bud",
+        "body_html": "<div class=\"md\"><p>Wrong sub bud</p>\n</div>",
+        "created_utc": "2024-12-09 12:49:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15dnk9",
+        "is_submitter": false,
+        "link_id": "t3_1ha1ym6",
+        "parent_id": "t3_1ha1ym6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/BeenhereONCEb4",
+        "body": "Yta",
+        "body_html": "<div class=\"md\"><p>Yta</p>\n</div>",
+        "created_utc": "2024-12-09 12:54:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15e9u9",
+        "is_submitter": false,
+        "link_id": "t3_1ha1ym6",
+        "parent_id": "t3_1ha1ym6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

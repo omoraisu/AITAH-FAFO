@@ -1,0 +1,61 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9qchj/aita_for_arranging_to_play_games_while_hanging/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/BaparaPoopi",
+      "created_utc": "2024-12-09 03:16:03",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 2,
+      "permalink": "/r/AITAH/comments/1h9qchj/aita_for_arranging_to_play_games_while_hanging/",
+      "score": 2,
+      "selftext": "We are both writing this post to settle a dispute. I (33M) sometimes need to organize game sessions with friends. Sending a simple message. My girlfriend (31F) thinks it's rude to arrange a game session while we're hanging out together. I tried to explain that i'm only doing so to organize my time AFTER our hanging out time. But she feels like (her words she's next to me) i'm not respecting hers and our time together. As an example i mentioned being out for a coffee/beer with a friend and texting someone else about your next destination/plans (not abandoning said friend or cutting your meet-up short). \n\nTo be more specific, yesterday when were chilling on the couch, watching TV and i asked her whether she would head to bed soon, because i was thinking about gaming in half an hour. She was then upset and felt like i was not respecting her time. She felt pressured that our hang-out time had a time limit and that i was being rude. I didn't actually text anyone, (that's why i always ask her about her plans first).\n\n  \nSo, AITA?\n\n\n\n ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITA for arranging to play games while hanging out with my gf",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Spirited_Cry9171",
+        "body": "I'm going to say ESH as long as you are not scheduling these game times to occur *at the same time* as you are hanging out with her, and as long as you are not constantly on your phone while you two are out on a romantic date night or something.\n\nWhy she sucks: if you two are just casually watching tv or whatever, I don't know that it should be a big deal about you texting your friends about something happening when she's not around.\n\nWhy you suck: I totally see why she is upset about you asking when she's going to bed so you can schedule a gaming session for after.  It does absolutely sound like you are saying, \"can you hurry up and get to bed?  I want to game with my friends.\"  That is off-putting, especially if it happens frequently.  It makes it sound like you care more about gaming than spending time with her.",
+        "body_html": "<div class=\"md\"><p>I&#39;m going to say ESH as long as you are not scheduling these game times to occur <em>at the same time</em> as you are hanging out with her, and as long as you are not constantly on your phone while you two are out on a romantic date night or something.</p>\n\n<p>Why she sucks: if you two are just casually watching tv or whatever, I don&#39;t know that it should be a big deal about you texting your friends about something happening when she&#39;s not around.</p>\n\n<p>Why you suck: I totally see why she is upset about you asking when she&#39;s going to bed so you can schedule a gaming session for after.  It does absolutely sound like you are saying, &quot;can you hurry up and get to bed?  I want to game with my friends.&quot;  That is off-putting, especially if it happens frequently.  It makes it sound like you care more about gaming than spending time with her.</p>\n</div>",
+        "created_utc": "2024-12-09 03:24:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12qkbm",
+        "is_submitter": false,
+        "link_id": "t3_1h9qchj",
+        "parent_id": "t3_1h9qchj",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/PathSpecialist560",
+        "body": "Yep you are the GF is always right.",
+        "body_html": "<div class=\"md\"><p>Yep you are the GF is always right.</p>\n</div>",
+        "created_utc": "2024-12-09 03:19:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "m12pkdt",
+        "is_submitter": false,
+        "link_id": "t3_1h9qchj",
+        "parent_id": "t3_1h9qchj",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
