@@ -1,0 +1,124 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha3uom/aitah_for_not_communicating_with_my_old_friends/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Monkey_D_Ketchum",
+      "created_utc": "2024-12-09 14:44:58",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Advice Needed",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 6,
+      "permalink": "/r/AITAH/comments/1ha3uom/aitah_for_not_communicating_with_my_old_friends/",
+      "score": 2,
+      "selftext": "I am a very big introvert and I think twice before talking to others in both online and offline mode. I dont talk to others unless its needed or they want to talk with me. I get the feeling that I maybe disturbing them if I message them or it feels awkward to me. Most of the times my old friends never message and I have even heard from my friend that the reason they dont message me is because I dont message them and funniest thing is that most of my friends are extrovert. You know what my friend recently had his brothers wedding and he gave me excuse he wasnt able to invite me because he didnt have my phone number, he could have atleast told this to my sibling who was in contact with him. I sometime feel like I am thinking too much and I am the selfish one, what can I even do as most of my life I have betrayed by people that I avoid getting close to them.",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for not communicating with my old friends from a long time",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Skiiza",
+        "body": "YTA, Friendship is a two way street!!",
+        "body_html": "<div class=\"md\"><p>YTA, Friendship is a two way street!!</p>\n</div>",
+        "created_utc": "2024-12-09 14:53:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15rsa7",
+        "is_submitter": false,
+        "link_id": "t3_1ha3uom",
+        "parent_id": "t3_1ha3uom",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Monkey_D_Ketchum",
+            "body": "I think so maybe I am the one whos lacking.",
+            "body_html": "<div class=\"md\"><p>I think so maybe I am the one whos lacking.</p>\n</div>",
+            "created_utc": "2024-12-09 15:40:05",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15w8lv",
+            "is_submitter": true,
+            "link_id": "t3_1ha3uom",
+            "parent_id": "t1_m15rsa7",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "[removed]",
+        "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+        "created_utc": "2024-12-09 14:55:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15s18q",
+        "is_submitter": false,
+        "link_id": "t3_1ha3uom",
+        "parent_id": "t3_1ha3uom",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Monkey_D_Ketchum",
+            "body": "Oh I see, I will try my best to do talk with them",
+            "body_html": "<div class=\"md\"><p>Oh I see, I will try my best to do talk with them</p>\n</div>",
+            "created_utc": "2024-12-09 15:39:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15w74z",
+            "is_submitter": true,
+            "link_id": "t3_1ha3uom",
+            "parent_id": "t1_m15s18q",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/violetforestprincess",
+        "body": "It's okay to feel introverted, but making an effort to reach out occasionally, even if it's just to check in, can help maintain relationships and show that you care.",
+        "body_html": "<div class=\"md\"><p>It&#39;s okay to feel introverted, but making an effort to reach out occasionally, even if it&#39;s just to check in, can help maintain relationships and show that you care.</p>\n</div>",
+        "created_utc": "2024-12-09 15:19:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15uabr",
+        "is_submitter": false,
+        "link_id": "t3_1ha3uom",
+        "parent_id": "t3_1ha3uom",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Monkey_D_Ketchum",
+            "body": "I really want to talk with them but what they think his bothers me but I will try my best to do so.",
+            "body_html": "<div class=\"md\"><p>I really want to talk with them but what they think his bothers me but I will try my best to do so.</p>\n</div>",
+            "created_utc": "2024-12-09 15:38:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15w42s",
+            "is_submitter": true,
+            "link_id": "t3_1ha3uom",
+            "parent_id": "t1_m15uabr",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

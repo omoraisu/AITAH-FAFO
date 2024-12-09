@@ -1,0 +1,93 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9t43u/aitah_for_not_changing_my_21_plans_and_hanging_w/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Environmental_Alps42",
+      "created_utc": "2024-12-09 05:18:37",
+      "distinguished": null,
+      "edited": "2024-12-09 05:25:13",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/AITAH/comments/1h9t43u/aitah_for_not_changing_my_21_plans_and_hanging_w/",
+      "score": 1,
+      "selftext": "So a couple days ago, I made plans to hang out with a friend of mine. We are in college and live in separate states and this is also my last year in college so I will not be seeing her after this year. We made plans for her to come over this coming weekend on Saturday so we can celebrate her birthday a bit early and to hang out before winter break. \n\nA couple days prior to setting up this hang out my boyfriend and I made plans to go to his sister\u2019s play (a musical she\u2019s in) on that Friday. Today he told me that his family will have to come Saturday night instead of Friday night because his little brother works Friday night.\n\nI told him I had already made plans to go hang out with my friend so I will most likely not be able to go to the play. He said this play was important to him and I told him I understood that but my friends are also important to me.\n\nAITAH?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for not changing my (21) plans and hanging w my bfs (22) family?",
+      "upvote_ratio": 0.67
+    },
+    "comments": [
+      {
+        "author": "[deleted]",
+        "body": "NTA\n\nMaybe you two should talk about what's coming up in your lives for the next week or two. Or whatever time frame. Easier to avoid these situations and plan ahead.\n\nHe kinda sounds like an a hole though.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>Maybe you two should talk about what&#39;s coming up in your lives for the next week or two. Or whatever time frame. Easier to avoid these situations and plan ahead.</p>\n\n<p>He kinda sounds like an a hole though.</p>\n</div>",
+        "created_utc": "2024-12-09 05:23:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13d66o",
+        "is_submitter": false,
+        "link_id": "t3_1h9t43u",
+        "parent_id": "t3_1h9t43u",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Environmental_Alps42",
+            "body": "I told him abt the hangout a week in advance, and he did the same for me. He is just now telling me abt the date change today.",
+            "body_html": "<div class=\"md\"><p>I told him abt the hangout a week in advance, and he did the same for me. He is just now telling me abt the date change today.</p>\n</div>",
+            "created_utc": "2024-12-09 05:24:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "m13dejy",
+            "is_submitter": true,
+            "link_id": "t3_1h9t43u",
+            "parent_id": "t1_m13d66o",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "Well, then you're still NTA.",
+                "body_html": "<div class=\"md\"><p>Well, then you&#39;re still NTA.</p>\n</div>",
+                "created_utc": "2024-12-09 05:25:31",
+                "distinguished": null,
+                "edited": false,
+                "id": "m13dlgc",
+                "is_submitter": false,
+                "link_id": "t3_1h9t43u",
+                "parent_id": "t1_m13dejy",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Apart-Scene-9059",
+        "body": "NAH:  The plans changed so he hoped you would move you plans around.  No one is an asshole here.",
+        "body_html": "<div class=\"md\"><p>NAH:  The plans changed so he hoped you would move you plans around.  No one is an asshole here.</p>\n</div>",
+        "created_utc": "2024-12-09 05:25:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "m13dn3i",
+        "is_submitter": false,
+        "link_id": "t3_1h9t43u",
+        "parent_id": "t3_1h9t43u",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

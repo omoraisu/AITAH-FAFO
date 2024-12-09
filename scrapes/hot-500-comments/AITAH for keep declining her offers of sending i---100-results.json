@@ -1,0 +1,77 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1h9rzlk/aitah_for_keep_declining_her_offers_of_sending_in/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/BudgetBass2",
+      "created_utc": "2024-12-09 04:28:52",
+      "distinguished": null,
+      "edited": "2024-12-09 11:34:02",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 3,
+      "permalink": "/r/AITAH/comments/1h9rzlk/aitah_for_keep_declining_her_offers_of_sending_in/",
+      "score": 1,
+      "selftext": "Hi Reddit! Few months ago, my gf wanted to share me meals of my choice on weekly basis. I used to deliver her cookies, cakes, and all the bakery item I knew she loves; however, she wanted to send me back some of my fav foods too. During those months, I was interning at my school and coming back home late followed my high school senior year exams right after my final few days as intern. I was helluva packed. With my busy schedule primarily due to academics, I kept decling her whenever she wanted to parcel me meals. Now I feel like I might've broken her heart, although she's all cool. I shouldn't decline to her or even my parents whenever they want to show their love towards me in terms of sending in meals. I feel like I need to be more open towards accepting gifts, especially food,  whenever someone wants to share with me out of love. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for keep declining her offers of sending in me weekly meals?",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/ContentContact3254",
+        "body": "NAH, as you didn't want her efforts to be wasted and she was trying to support you during a busy time.",
+        "body_html": "<div class=\"md\"><p>NAH, as you didn&#39;t want her efforts to be wasted and she was trying to support you during a busy time.</p>\n</div>",
+        "created_utc": "2024-12-09 04:43:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m135met",
+        "is_submitter": false,
+        "link_id": "t3_1h9rzlk",
+        "parent_id": "t3_1h9rzlk",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AlwaysBeCutie",
+        "body": "As for me, I think it won't be too hard for you to have meals, especially if it's delicious, you'll make yourself and your girlfriend happy. I'm all for meals!",
+        "body_html": "<div class=\"md\"><p>As for me, I think it won&#39;t be too hard for you to have meals, especially if it&#39;s delicious, you&#39;ll make yourself and your girlfriend happy. I&#39;m all for meals!</p>\n</div>",
+        "created_utc": "2024-12-09 04:32:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "m133g54",
+        "is_submitter": false,
+        "link_id": "t3_1h9rzlk",
+        "parent_id": "t3_1h9rzlk",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BudgetBass2",
+            "body": "You're absolutely right! It was soooo much going on that time with me, like, I had to finalise myself a university out of the universities I'd gotten to, plus final exams were in between. I had no time for wrapping my head around things. She's now gone to Dubai for Christmas/New Year Holidays while I'm spending my vacations at home thinking I should've accepted the food She's been trying to send me that I kept on delaying. One mustn't delay in responding to small acts of love \u2764\ufe0f",
+            "body_html": "<div class=\"md\"><p>You&#39;re absolutely right! It was soooo much going on that time with me, like, I had to finalise myself a university out of the universities I&#39;d gotten to, plus final exams were in between. I had no time for wrapping my head around things. She&#39;s now gone to Dubai for Christmas/New Year Holidays while I&#39;m spending my vacations at home thinking I should&#39;ve accepted the food She&#39;s been trying to send me that I kept on delaying. One mustn&#39;t delay in responding to small acts of love \u2764\ufe0f</p>\n</div>",
+            "created_utc": "2024-12-09 04:47:47",
+            "distinguished": null,
+            "edited": false,
+            "id": "m136gn2",
+            "is_submitter": true,
+            "link_id": "t3_1h9rzlk",
+            "parent_id": "t1_m133g54",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

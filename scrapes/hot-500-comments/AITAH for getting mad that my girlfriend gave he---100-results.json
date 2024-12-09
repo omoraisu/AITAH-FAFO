@@ -1,0 +1,250 @@
+{
+  "scrape_settings": {
+    "n_results": 100,
+    "style": "structured",
+    "url": "https://www.reddit.com/r/AITAH/comments/1ha1z1q/aitah_for_getting_mad_that_my_girlfriend_gave_her/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Tobyggen",
+      "created_utc": "2024-12-09 12:46:17",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 14,
+      "permalink": "/r/AITAH/comments/1ha1z1q/aitah_for_getting_mad_that_my_girlfriend_gave_her/",
+      "score": 1,
+      "selftext": "So I like to try food and drinks from around the world. One I tried is called Baikal. It's essentially a russian version of Coca-Cola. I've been ordering bottles for a while but since the war in Ukraine started It's been almost impossible to get a bottle here in the states. I was only able to get a small bottle recently from a guy who lives in Belarus. I admittedly payed way too much for it but i love the stuff and sometimes you just have to pay extra for what you like. I had it in the fridge and was going to enjoy it with dinner after work. When I got home I made a bowl of instant noodles and opened the fridge to grab my bottle of liquid heaven. It wasn't there. I figured maybe it got moved so I asked my girlfriend and she said she gave it to her little brother because he wanted something to drink and she couldn't find anything else. I was pretty angry so I just ate my ramen in silence and went to bed. Now my girlfriend is saying I'm being childish throwing a fit over a bottle of soda. So... am I the asshole?",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "AITAH",
+      "title": "AITAH for getting mad that my girlfriend gave her little brother my soda",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/lemonzy4412",
+        "body": "Did she know it was your special sacred bottle of soda?",
+        "body_html": "<div class=\"md\"><p>Did she know it was your special sacred bottle of soda?</p>\n</div>",
+        "created_utc": "2024-12-09 13:07:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15fymb",
+        "is_submitter": false,
+        "link_id": "t3_1ha1z1q",
+        "parent_id": "t3_1ha1z1q",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Tobyggen",
+            "body": "Yes and no, I never outright said it was, but I, on a few occasions, vented about how annoying it was to get, told her how much I paid for the bottle, etc. Even if I didn't outright say it, she should've been able to tell i was excited about it. Also, just looking at the bottle, it's obviously not just some cheap soda you can get at 7/11.",
+            "body_html": "<div class=\"md\"><p>Yes and no, I never outright said it was, but I, on a few occasions, vented about how annoying it was to get, told her how much I paid for the bottle, etc. Even if I didn&#39;t outright say it, she should&#39;ve been able to tell i was excited about it. Also, just looking at the bottle, it&#39;s obviously not just some cheap soda you can get at 7/11.</p>\n</div>",
+            "created_utc": "2024-12-09 13:09:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15g8br",
+            "is_submitter": true,
+            "link_id": "t3_1ha1z1q",
+            "parent_id": "t1_m15fymb",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/epeeist42",
+                "body": "If I read this correctly, OP you never told her, never explicitly showed her the bottle saying \"this is expensive don't drink it\", it wasn't unreasonable in general terms for her to use the fridge, sounds like you live together (or if not she stays there sometimes when you're out), etc. She's presumably not an expert on Russian soda, why didn't you show it to her and say don't drink it?\n\nThat's not to blame you, but to suggest it may not be fair to blame her for assuming that soda in the fridge - not locked up, not in your room, no label on it saying don't drink, never showing it to her - she's supposed to remember name of Russian soda?\n\nI mean, nothing super expensive but I've bought soda not available in my country when elsewhere, brought it back, visited my parents, and showed them \"I'm putting this in the fridge, it's special, please don't drink it\". I didn't just put it in the fridge and assume no-one else would drink it because I'd talked about how Dr Pepper coconut wasn't available here or whatever.",
+                "body_html": "<div class=\"md\"><p>If I read this correctly, OP you never told her, never explicitly showed her the bottle saying &quot;this is expensive don&#39;t drink it&quot;, it wasn&#39;t unreasonable in general terms for her to use the fridge, sounds like you live together (or if not she stays there sometimes when you&#39;re out), etc. She&#39;s presumably not an expert on Russian soda, why didn&#39;t you show it to her and say don&#39;t drink it?</p>\n\n<p>That&#39;s not to blame you, but to suggest it may not be fair to blame her for assuming that soda in the fridge - not locked up, not in your room, no label on it saying don&#39;t drink, never showing it to her - she&#39;s supposed to remember name of Russian soda?</p>\n\n<p>I mean, nothing super expensive but I&#39;ve bought soda not available in my country when elsewhere, brought it back, visited my parents, and showed them &quot;I&#39;m putting this in the fridge, it&#39;s special, please don&#39;t drink it&quot;. I didn&#39;t just put it in the fridge and assume no-one else would drink it because I&#39;d talked about how Dr Pepper coconut wasn&#39;t available here or whatever.</p>\n</div>",
+                "created_utc": "2024-12-09 15:41:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "m15wbnw",
+                "is_submitter": false,
+                "link_id": "t3_1ha1z1q",
+                "parent_id": "t1_m15g8br",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Tobyggen",
+                    "body": "That's a fair point and definitely something I'm going to be doing moving on, but I did talk to her about the price and how excited i was to get it. She knew It was special, I just might not have expressed how special it was. I've had time to think, and i was a bit buttholeish but not without any reason, like she said.",
+                    "body_html": "<div class=\"md\"><p>That&#39;s a fair point and definitely something I&#39;m going to be doing moving on, but I did talk to her about the price and how excited i was to get it. She knew It was special, I just might not have expressed how special it was. I&#39;ve had time to think, and i was a bit buttholeish but not without any reason, like she said.</p>\n</div>",
+                    "created_utc": "2024-12-09 16:22:20",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m1600n9",
+                    "is_submitter": true,
+                    "link_id": "t3_1ha1z1q",
+                    "parent_id": "t1_m15wbnw",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Secret_Sister_Sarah",
+        "body": "NTA - This was a specialty drink that you paid a lot of money for; she had no right to just give it away.",
+        "body_html": "<div class=\"md\"><p>NTA - This was a specialty drink that you paid a lot of money for; she had no right to just give it away.</p>\n</div>",
+        "created_utc": "2024-12-09 12:54:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15eapo",
+        "is_submitter": false,
+        "link_id": "t3_1ha1z1q",
+        "parent_id": "t3_1ha1z1q",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AssignmentSecret",
+        "body": "NTA one time I was a kid and my mom took me to the dentist for a filling. She promised McDonald\u2019s afterwards. Well, as she was waiting in the lobby, a blind kid smelled the food and just started eating it! My mom was too polite to say anything as an immigrant Asian woman. I came out of the dentist room so disappointed. It became hard to believe my mom from that point on.",
+        "body_html": "<div class=\"md\"><p>NTA one time I was a kid and my mom took me to the dentist for a filling. She promised McDonald\u2019s afterwards. Well, as she was waiting in the lobby, a blind kid smelled the food and just started eating it! My mom was too polite to say anything as an immigrant Asian woman. I came out of the dentist room so disappointed. It became hard to believe my mom from that point on.</p>\n</div>",
+        "created_utc": "2024-12-09 12:57:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15en8l",
+        "is_submitter": false,
+        "link_id": "t3_1ha1z1q",
+        "parent_id": "t3_1ha1z1q",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Tobyggen",
+            "body": "Is it messed up that I can picture the kid sniffing the air like a dog before finding the McDonald's...",
+            "body_html": "<div class=\"md\"><p>Is it messed up that I can picture the kid sniffing the air like a dog before finding the McDonald&#39;s...</p>\n</div>",
+            "created_utc": "2024-12-09 13:02:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15f9kx",
+            "is_submitter": true,
+            "link_id": "t3_1ha1z1q",
+            "parent_id": "t1_m15en8l",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/AssignmentSecret",
+                "body": "I picture it exactly like a 90s kids cartoon. I was so upset man, I cried and told my mom she betrayed me lmao.",
+                "body_html": "<div class=\"md\"><p>I picture it exactly like a 90s kids cartoon. I was so upset man, I cried and told my mom she betrayed me lmao.</p>\n</div>",
+                "created_utc": "2024-12-09 13:07:14",
+                "distinguished": null,
+                "edited": false,
+                "id": "m15fvyv",
+                "is_submitter": false,
+                "link_id": "t3_1ha1z1q",
+                "parent_id": "t1_m15f9kx",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Electrical_Elk_2576",
+            "body": "I don\u2019t know why their parents didn\u2019t say anything.",
+            "body_html": "<div class=\"md\"><p>I don\u2019t know why their parents didn\u2019t say anything.</p>\n</div>",
+            "created_utc": "2024-12-09 13:19:12",
+            "distinguished": null,
+            "edited": false,
+            "id": "m15hdlc",
+            "is_submitter": false,
+            "link_id": "t3_1ha1z1q",
+            "parent_id": "t1_m15en8l",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/AssignmentSecret",
+                "body": "I\u2019m not sure. I think the way my mom explained it was oblivious parents. The lobby was actually a jungle gym of sorts for kids to play in while they wait for a cleanup or whatever. Not massive, maybe 800-1000 sq fr. But very unique for a dentist office in the 90s.",
+                "body_html": "<div class=\"md\"><p>I\u2019m not sure. I think the way my mom explained it was oblivious parents. The lobby was actually a jungle gym of sorts for kids to play in while they wait for a cleanup or whatever. Not massive, maybe 800-1000 sq fr. But very unique for a dentist office in the 90s.</p>\n</div>",
+                "created_utc": "2024-12-09 13:20:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "m15hjxc",
+                "is_submitter": false,
+                "link_id": "t3_1ha1z1q",
+                "parent_id": "t1_m15hdlc",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Tobyggen",
+                    "body": "In my home town my dentist had a similar set up. Little play area with a play place. Little thing to climb, had a slide. It was cool.",
+                    "body_html": "<div class=\"md\"><p>In my home town my dentist had a similar set up. Little play area with a play place. Little thing to climb, had a slide. It was cool.</p>\n</div>",
+                    "created_utc": "2024-12-09 13:21:55",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m15hpqb",
+                    "is_submitter": true,
+                    "link_id": "t3_1ha1z1q",
+                    "parent_id": "t1_m15hjxc",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/AssignmentSecret",
+                        "body": "That\u2019s awesome! Not Chicago I presume?",
+                        "body_html": "<div class=\"md\"><p>That\u2019s awesome! Not Chicago I presume?</p>\n</div>",
+                        "created_utc": "2024-12-09 13:22:30",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m15hsat",
+                        "is_submitter": false,
+                        "link_id": "t3_1ha1z1q",
+                        "parent_id": "t1_m15hpqb",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Tobyggen",
+                            "body": "Fresno, opposite side of the USA",
+                            "body_html": "<div class=\"md\"><p>Fresno, opposite side of the USA</p>\n</div>",
+                            "created_utc": "2024-12-09 13:23:09",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m15hv7k",
+                            "is_submitter": true,
+                            "link_id": "t3_1ha1z1q",
+                            "parent_id": "t1_m15hsat",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/globaltrekker1",
+        "body": "NTA\n\nDude, you gf has shown you that she does not give AF about your stuff. Do with this information what you will.",
+        "body_html": "<div class=\"md\"><p>NTA</p>\n\n<p>Dude, you gf has shown you that she does not give AF about your stuff. Do with this information what you will.</p>\n</div>",
+        "created_utc": "2024-12-09 13:11:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "m15ge0y",
+        "is_submitter": false,
+        "link_id": "t3_1ha1z1q",
+        "parent_id": "t3_1ha1z1q",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}
